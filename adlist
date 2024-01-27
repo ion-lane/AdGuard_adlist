@@ -253,6 +253,14 @@
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 ads.altitude-arena.com
+0.0.0.0 amplitude.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 api2.amplitude.com
+0.0.0.0 cdn.amplitude.com
+0.0.0.0 info.amplitude.com
+0.0.0.0 regionconfig.amplitude.com
+0.0.0.0 static.amplitude.com
+
 
 # regexp
 0.0.0.0 killtarget.biz
