@@ -256,6 +256,7 @@
 0.0.0.0 eap-log-sg.allawnos.com
 0.0.0.0 connect-drru.dbankcloud.cn
 0.0.0.0 g-api.ekatox.com
+0.0.0.0 firebase-settings.crashlytics.com
 
 
 # regexp
