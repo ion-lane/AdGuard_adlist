@@ -260,16 +260,6 @@
 0.0.0.0 g-api.ekatox.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 mpclickstream.online.sberbank.ru
-0.0.0.0 e263b61f-dnsotls-ds.metric.gstatic.com
-0.0.0.0 b9130830-dnsotls-ds.metric.gstatic.com
-0.0.0.0 2372aea7-dnsotls-ds.metric.gstatic.com
-0.0.0.0 d3ql1s-dnsotls-ds.metric.gstatic.com
-0.0.0.0 f5f8334c-dnsotls-ds.metric.gstatic.com
-0.0.0.0 1d05aa19-dnsotls-ds.metric.gstatic.com
-0.0.0.0 d9680bb5-dnsotls-ds.metric.gstatic.com
-0.0.0.0 vzyxjv-dnsotls-ds.metric.gstatic.com
-0.0.0.0 b9384822-dnsotls-ds.metric.gstatic.com
-0.0.0.0 bfce0d6d-dnsotls-ds.metric.gstatic.com
 0.0.0.0 locationhistory-pa.googleapis.com
 
 # regexp
