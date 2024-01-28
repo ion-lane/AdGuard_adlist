@@ -254,6 +254,8 @@
 0.0.0.0 static.amplitude.com
 0.0.0.0 dc-conf-sg.heytapmobile.com
 0.0.0.0 eap-log-sg.allawnos.com
+0.0.0.0 sau-server-sg.allawnos.com
+0.0.0.0 gauss-otacostmanual-sg.allawnofs.com
 0.0.0.0 connect-drru.dbankcloud.cn
 0.0.0.0 g-api.ekatox.com
 0.0.0.0 firebase-settings.crashlytics.com
@@ -266,7 +268,9 @@
 0.0.0.0 1d05aa19-dnsotls-ds.metric.gstatic.com
 0.0.0.0 d9680bb5-dnsotls-ds.metric.gstatic.com
 0.0.0.0 vzyxjv-dnsotls-ds.metric.gstatic.com
-0.0.0.0 gauss-otacostmanual-sg.allawnofs.com
+0.0.0.0 b9384822-dnsotls-ds.metric.gstatic.com
+0.0.0.0 bfce0d6d-dnsotls-ds.metric.gstatic.com
+0.0.0.0 locationhistory-pa.googleapis.com
 
 # regexp
 0.0.0.0 killtarget.biz
