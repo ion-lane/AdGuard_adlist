@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 27 January 2024
+# Date: 28 January 2024
 
 0.0.0.0 sitecheck.opera.com
 0.0.0.0 thumbnails.opera.com
@@ -257,6 +257,7 @@
 0.0.0.0 connect-drru.dbankcloud.cn
 0.0.0.0 g-api.ekatox.com
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 mpclickstream.online.sberbank.ru
 
 
 # regexp
