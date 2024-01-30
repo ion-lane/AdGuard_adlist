@@ -300,6 +300,7 @@
 0.0.0.0 utarget.ru
 0.0.0.0 yabs.yandex.ru
 0.0.0.0 yadro.ru
+0.0.0.0 httpdns-push.heytapmobile.com
 
 # regexp
 0.0.0.0 killtarget.biz
