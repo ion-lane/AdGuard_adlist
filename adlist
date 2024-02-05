@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 28 January 2024
+# Date: 05 February 2024
 
 0.0.0.0 sitecheck.opera.com
 0.0.0.0 thumbnails.opera.com
@@ -300,6 +300,7 @@
 0.0.0.0 yabs.yandex.ru
 0.0.0.0 yadro.ru
 0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 ws.audioscrobbler.com
 
 # regexp
 0.0.0.0 killtarget.biz
