@@ -1,6 +1,10 @@
 # Additional domains for Pi-hole
 # Date: 05 February 2024
 
+0.0.0.0 google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 www.googletagmanager.com
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 5922505.fls.doubleclick.net
 0.0.0.0 api.revenuecat.com
