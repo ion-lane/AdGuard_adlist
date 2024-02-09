@@ -1,6 +1,7 @@
 # Additional domains for Pi-hole
 # Date: 05 February 2024
 
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 google-analytics.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 googletagmanager.com
