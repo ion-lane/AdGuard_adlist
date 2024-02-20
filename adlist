@@ -1,6 +1,7 @@
 # Additional domains for Pi-hole
-# Date: 09 February 2024
+# Date: 20 February 2024
 
+0.0.0.0 booster.osnova.io
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 google-analytics.com
 0.0.0.0 www.google-analytics.com
