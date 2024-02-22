@@ -1,6 +1,7 @@
 # Additional domains for Pi-hole
-# Date: 20 February 2024
+# Date: 22 February 2024
 
+0.0.0.0 377a9c5d-dnsotls-ds.metric.gstatic.com
 0.0.0.0 leonardo.osnova.io
 0.0.0.0 booster.osnova.io
 0.0.0.0 pagead2.googlesyndication.com
