@@ -2,6 +2,9 @@
 # Date: 22 February 2024
 
 0.0.0.0 datacollector-dre.dt.hicloud.com
+0.0.0.0 38a16771-dnsotls-ds.metric.gstatic.com
+0.0.0.0 fwkcau-dnsotls-ds.metric.gstatic.com
+0.0.0.0 f0e54b9c-dnsotls-ds.metric.gstatic.com
 0.0.0.0 6e0ba67a-dnsotls-ds.metric.gstatic.com
 0.0.0.0 uzoyzs-dnsotls-ds.metric.gstatic.com
 0.0.0.0 981f4636-dnsotls-ds.metric.gstatic.com
