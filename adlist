@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 28 February 2024
+# Date: 29 February 2024
 
 0.0.0.0 datacollector-dre.dt.hicloud.com
 0.0.0.0 leonardo.osnova.io
@@ -18,6 +18,8 @@
 0.0.0.0 global-4-lvs-odra.opera-mini.net
 0.0.0.0 siteicon.opera-api.com
 0.0.0.0 thumbnails2.opera.com
+0.0.0.0 mcp.operacdn.com
+0.0.0.0 mcp.opera-api.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 ams.lb.opera.technology
 0.0.0.0 sitecheck.geo.opera.com
