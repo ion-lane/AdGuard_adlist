@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 15 March 2024
+# Date: 19 March 2024
 
 0.0.0.0 eap-log-sg.allawnos.com
 0.0.0.0 sau-server-sg.allawnos.com
@@ -113,7 +113,6 @@
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 cdn-edge.kwork.ru
 0.0.0.0 code.createjs.com
-0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 uptime-info.yandex.ru
 0.0.0.0 http-check-headers.yandex.ru
 0.0.0.0 c.tenor.com
