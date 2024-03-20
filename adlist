@@ -1,6 +1,7 @@
 # Additional domains for Pi-hole
-# Date: 19 March 2024
+# Date: 20 March 2024
 
+0.0.0.0 cpatracking.ru
 0.0.0.0 eap-log-sg.allawnos.com
 0.0.0.0 sau-server-sg.allawnos.com
 0.0.0.0 datacollector-dre.dt.hicloud.com
