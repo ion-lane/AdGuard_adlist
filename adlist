@@ -1,10 +1,11 @@
 # Additional domains for Pi-hole
-# Date: 21 March 2024
+# Date: 23 March 2024
 
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 cpatracking.ru
 0.0.0.0 eap-log-sg.allawnos.com
 0.0.0.0 sau-server-sg.allawnos.com
+0.0.0.0 gauss-otacostmanual-sg.allawnofs.com
 0.0.0.0 datacollector-dre.dt.hicloud.com
 0.0.0.0 leonardo.osnova.io
 0.0.0.0 booster.osnova.io
