@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 23 March 2024
+# Date: 02 April 2024
 
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 cpatracking.ru
@@ -238,14 +238,10 @@
 0.0.0.0 speedme.ir
 0.0.0.0 www.cltmfstu.com
 0.0.0.0 www.vkxpihctykjzlc.com
-0.0.0.0 pbstream.uhgzgnb.ru
 0.0.0.0 ta.sharemasala.com
 0.0.0.0 conf.piojm.tech
-0.0.0.0 hotroom.live.bigo.sg
-0.0.0.0 newlbs.live.bigo.sg
 0.0.0.0 sponsor.ajay.app
 0.0.0.0 adsrv.hh.ru
-0.0.0.0 bstream.sgmbocast.com
 0.0.0.0 adx-tk.mtgglobals.com
 0.0.0.0 de01.mtgglobals.com
 0.0.0.0 metrics.prom.third-party-app.sberdevices.ru
