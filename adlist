@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 11 April 2024
+# Date: 16 April 2024
 
 0.0.0.0 ad.simpledesign.ltd
 0.0.0.0 omes-sec.heytapmobile.com
@@ -239,7 +239,9 @@
 0.0.0.0 metric.gstatic.com
 0.0.0.0 mincifry-cert.vk.com
 0.0.0.0 refpa59720.top
+0.0.0.0 refpa4293501.top
 0.0.0.0 1xlite-890075.top
+0.0.0.0 1xlite-230379.top
 0.0.0.0 mainotter.com
 0.0.0.0 streetuptowind.com
 0.0.0.0 speedme.ir
