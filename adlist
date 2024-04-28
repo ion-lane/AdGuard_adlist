@@ -1,6 +1,7 @@
 # Additional domains for Pi-hole
-# Date: 21 April 2024
+# Date: 28 April 2024
 
+0.0.0.0 stats.rustore.ru
 0.0.0.0 content.adfox.ru
 0.0.0.0 ad.simpledesign.ltd
 0.0.0.0 omes-sec.heytapmobile.com
