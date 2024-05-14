@@ -1,6 +1,7 @@
 # Additional domains for Pi-hole
-# Date: 10 May2024
+# Date: 14 May2024
 
+0.0.0.0 tracking.diginetica.net
 0.0.0.0 nearbysharing-pa.googleapis.com
 0.0.0.0 stats.rustore.ru
 0.0.0.0 content.adfox.ru
