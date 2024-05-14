@@ -1,6 +1,8 @@
 # Additional domains for Pi-hole
 # Date: 14 May2024
 
+0.0.0.0 ip4.tracker-api.my.com
+0.0.0.0 advisor.api.2gis.ru
 0.0.0.0 tracking.diginetica.net
 0.0.0.0 nearbysharing-pa.googleapis.com
 0.0.0.0 stats.rustore.ru
