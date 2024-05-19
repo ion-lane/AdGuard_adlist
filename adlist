@@ -1,6 +1,7 @@
 # Additional domains for Pi-hole
 # Date: 20 May 2024
 
+0.0.0.0 rnikxo-dnsotls-ds.metric.gstatic.com
 0.0.0.0 ip4.tracker-api.my.com
 0.0.0.0 advisor.api.2gis.ru
 0.0.0.0 tracking.diginetica.net
