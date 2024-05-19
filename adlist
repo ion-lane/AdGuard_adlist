@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 14 May2024
+# Date: 20 May 2024
 
 0.0.0.0 ip4.tracker-api.my.com
 0.0.0.0 advisor.api.2gis.ru
@@ -28,7 +28,6 @@
 0.0.0.0 api.revenuecat.com
 0.0.0.0 sitecheck.opera.com
 0.0.0.0 siteicon.opera-api2.com
-0.0.0.0 thumbnails.opera.com
 0.0.0.0 ofa-r-sub.osp.opera.software
 0.0.0.0 files.myopera.com
 0.0.0.0 sitesuggestion.opera-api2.com
