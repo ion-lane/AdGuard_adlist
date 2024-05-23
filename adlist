@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 20 May 2024
+# Date: 24 May 2024
 
 0.0.0.0 ip4.tracker-api.my.com
 0.0.0.0 advisor.api.2gis.ru
@@ -33,7 +33,6 @@
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 global-4-lvs-odra.opera-mini.net
 0.0.0.0 siteicon.opera-api.com
-0.0.0.0 thumbnails2.opera.com
 0.0.0.0 mcp.operacdn.com
 0.0.0.0 mcp.opera-api.com
 0.0.0.0 mcp.opera-api2.com
