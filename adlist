@@ -1,6 +1,8 @@
 # Additional domains for Pi-hole
-# Date: 24 May 2024
+# Date: 26 May 2024
 
+0.0.0.0 i.ibb.co
+0.0.0.0 go.mixtraffik.ru
 0.0.0.0 ip4.tracker-api.my.com
 0.0.0.0 advisor.api.2gis.ru
 0.0.0.0 tracking.diginetica.net
