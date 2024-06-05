@@ -1,6 +1,14 @@
 # Additional domains for Pi-hole
-# Date: 26 May 2024
+# Date: 6 Jun 2024
 
+0.0.0.0 dmp.one
+0.0.0.0 manalyticshub.com
+0.0.0.0 whitesaas.com
+0.0.0.0 profilepxl.ru
+0.0.0.0 dmg.digitaltarget.ru
+0.0.0.0 acint.net
+0.0.0.0 onef.pro
+0.0.0.0 pixel.data-leads.ru
 0.0.0.0 sheisnotateacher.com
 0.0.0.0 iworkwiththem.com
 0.0.0.0 i.ibb.co
