@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 16 Jun 2024
+# Date: 13 Jun 2024
 
 0.0.0.0 redirect.opera.com
 0.0.0.0 redirect.geo.opera.com
