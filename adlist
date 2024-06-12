@@ -1,6 +1,7 @@
 # Additional domains for Pi-hole
 # Date: 13 Jun 2024
 
+0.0.0.0 sentry.xn--80ajbekothchmme5j.xn--p1ai
 0.0.0.0 redirect.opera.com
 0.0.0.0 redirect.geo.opera.com
 0.0.0.0 sg-redirect.opera.com
