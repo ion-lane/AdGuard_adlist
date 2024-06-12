@@ -1,6 +1,10 @@
 # Additional domains for Pi-hole
 # Date: 16 Jun 2024
 
+0.0.0.0 redirect.opera.com
+0.0.0.0 redirect.geo.opera.com
+0.0.0.0 sg-redirect.opera.com
+0.0.0.0 singa.lb.opera.technology
 0.0.0.0 exchange.opera.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.statcounter.com
