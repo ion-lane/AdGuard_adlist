@@ -71,6 +71,7 @@
 0.0.0.0 locationhistory-pa.googleapis.com
 0.0.0.0 google-analitycs.ru
 0.0.0.0 connectivitycheck.android.com
+0.0.0.0 remoteprovisioning.googleapis.com
 
 # Yandex services
 0.0.0.0 rosenberg.appmetrica.yandex.net
@@ -123,6 +124,26 @@
 0.0.0.0 s.lenovo.com
 0.0.0.0 openapi.lenovo.com
 
+# microsoft
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 in.appcenter.ms
+0.0.0.0 mobilecenter.azureedge.net
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 amazonaax.com
+0.0.0.0 amazonclix.com
+0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 self.events.data.microsoft.com
+
+# sentry
+0.0.0.0 o76327.ingest.sentry.io
+0.0.0.0 o1326854.ingest.sentry.io
+0.0.0.0 o519161.ingest.sentry.io
+0.0.0.0 o1069899.ingest.sentry.io
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+
 # others
 0.0.0.0 sendsay.ru
 0.0.0.0 image.sendsay.ru
@@ -159,28 +180,13 @@
 0.0.0.0 mobile-api.ru
 0.0.0.0 web-korobka.ru
 0.0.0.0 r.mail.ru
-0.0.0.0 o76327.ingest.sentry.io
-0.0.0.0 o1326854.ingest.sentry.io
-0.0.0.0 o519161.ingest.sentry.io
 0.0.0.0 sentry-api.sberdevices.ru
 0.0.0.0 sentry.ispsystem.net
-0.0.0.0 o1069899.ingest.sentry.io
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 bs-dante.ru
 0.0.0.0 adviser.bs-dante.ru
-0.0.0.0 browser.sentry-cdn.com
-0.0.0.0 adviser.bs-dante.ru
-0.0.0.0 officeclient.microsoft.com
-0.0.0.0 in.appcenter.ms
-0.0.0.0 mobilecenter.azureedge.net
 0.0.0.0 antiterroristqueenjolly.com
 0.0.0.0 absorbinginject.com
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 affiliationjs.s3.amazonaws.com
-0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 amazonaax.com
-0.0.0.0 amazonclix.com
-0.0.0.0 app.getsentry.com
 0.0.0.0 advertising.twitter.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 d.reddit.com
@@ -214,8 +220,6 @@
 0.0.0.0 c.tenor.com
 0.0.0.0 cdn.adfinity.pro
 0.0.0.0 cdn.aaacdn.net
-0.0.0.0 nexusrules.officeapps.live.com
-0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 location.services.mozilla.com
@@ -279,7 +283,6 @@
 0.0.0.0 ru.ekatox.com
 0.0.0.0 litemsg.ekatox.com
 0.0.0.0 liteapi.ekatox.com
-0.0.0.0 remoteprovisioning.googleapis.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 mincifry-cert.vk.com
