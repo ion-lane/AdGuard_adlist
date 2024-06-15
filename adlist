@@ -147,6 +147,14 @@
 0.0.0.0 sentry-api.sberdevices.ru
 0.0.0.0 sentry.ispsystem.net
 
+# dbankcloud
+0.0.0.0 connect-dre.dbankcloud.cn
+0.0.0.0 connect-drcn.dbankcloud.cn
+0.0.0.0 web-drru.hispace.dbankcloud.com
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 connect-drru.dbankcloud.cn
+
 # others
 0.0.0.0 sendsay.ru
 0.0.0.0 image.sendsay.ru
@@ -173,9 +181,6 @@
 0.0.0.0 content.adfox.ru
 0.0.0.0 ad.simpledesign.ltd
 0.0.0.0 cpatracking.ru
-0.0.0.0 connect-dre.dbankcloud.cn
-0.0.0.0 connect-drcn.dbankcloud.cn
-0.0.0.0 web-drru.hispace.dbankcloud.com
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 5922505.fls.doubleclick.net
 0.0.0.0 api.revenuecat.com
@@ -224,8 +229,6 @@
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 geo.tildacdn.com
-0.0.0.0 grs.dbankcloud.cn
-0.0.0.0 grs.dbankcloud.com
 0.0.0.0 trackingapi.trendemon.com
 0.0.0.0 push-row.zui.com
 0.0.0.0 bar.love.mail.ru
@@ -319,7 +322,6 @@
 0.0.0.0 info.amplitude.com
 0.0.0.0 regionconfig.amplitude.com
 0.0.0.0 static.amplitude.com
-0.0.0.0 connect-drru.dbankcloud.cn
 0.0.0.0 g-api.ekatox.com
 0.0.0.0 mpclickstream.online.sberbank.ru
 0.0.0.0 advombat.ru
