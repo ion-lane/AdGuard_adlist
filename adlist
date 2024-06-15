@@ -143,11 +143,13 @@
 0.0.0.0 o1069899.ingest.sentry.io
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 app.getsentry.com
+0.0.0.0 sentry.xn--80ajbekothchmme5j.xn--p1ai
+0.0.0.0 sentry-api.sberdevices.ru
+0.0.0.0 sentry.ispsystem.net
 
 # others
 0.0.0.0 sendsay.ru
 0.0.0.0 image.sendsay.ru
-0.0.0.0 sentry.xn--80ajbekothchmme5j.xn--p1ai
 0.0.0.0 www.statcounter.com
 0.0.0.0 bpb.ukyuh.tech
 0.0.0.0 socfishing.com
@@ -180,8 +182,6 @@
 0.0.0.0 mobile-api.ru
 0.0.0.0 web-korobka.ru
 0.0.0.0 r.mail.ru
-0.0.0.0 sentry-api.sberdevices.ru
-0.0.0.0 sentry.ispsystem.net
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 bs-dante.ru
 0.0.0.0 adviser.bs-dante.ru
