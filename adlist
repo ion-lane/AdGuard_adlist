@@ -155,6 +155,22 @@
 0.0.0.0 grs.dbankcloud.com
 0.0.0.0 connect-drru.dbankcloud.cn
 
+# appsflyersdk
+0.0.0.0 launches.appsflyersdk.com
+0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 w8nbds-cdn-settings.appsflyersdk.com
+0.0.0.0 inapps.appsflyersdk.com
+0.0.0.0 rf64to-cdn-settings.appsflyersdk.com
+
+# amplitude
+0.0.0.0 amplitude.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 api2.amplitude.com
+0.0.0.0 cdn.amplitude.com
+0.0.0.0 info.amplitude.com
+0.0.0.0 regionconfig.amplitude.com
+0.0.0.0 static.amplitude.com
+
 # others
 0.0.0.0 sendsay.ru
 0.0.0.0 image.sendsay.ru
@@ -253,11 +269,6 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 lovikupon.ru
 0.0.0.0 vladivostok.lovikupon.ru
-0.0.0.0 launches.appsflyersdk.com
-0.0.0.0 cdn-settings.appsflyersdk.com
-0.0.0.0 w8nbds-cdn-settings.appsflyersdk.com
-0.0.0.0 inapps.appsflyersdk.com
-0.0.0.0 rf64to-cdn-settings.appsflyersdk.com
 0.0.0.0 adsmetadata.mobileadexchange.net
 0.0.0.0 betsonsport.ru
 0.0.0.0 www.betsonsport.ru
@@ -315,13 +326,6 @@
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 ads.altitude-arena.com
-0.0.0.0 amplitude.com
-0.0.0.0 api.amplitude.com
-0.0.0.0 api2.amplitude.com
-0.0.0.0 cdn.amplitude.com
-0.0.0.0 info.amplitude.com
-0.0.0.0 regionconfig.amplitude.com
-0.0.0.0 static.amplitude.com
 0.0.0.0 g-api.ekatox.com
 0.0.0.0 mpclickstream.online.sberbank.ru
 0.0.0.0 advombat.ru
