@@ -96,6 +96,8 @@
 0.0.0.0 amc.yandex.ru
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 yabs.yandex.ru
+0.0.0.0 sso.dzen.ru
+0.0.0.0 sso.passport.yandex.ru
 
 # realme phone
 0.0.0.0 omes-sec.heytapmobile.com
