@@ -98,6 +98,8 @@
 0.0.0.0 yabs.yandex.ru
 0.0.0.0 sso.dzen.ru
 0.0.0.0 sso.passport.yandex.ru
+0.0.0.0 yandex.ru
+0.0.0.0 m.yandex.ru
 
 # realme phone
 0.0.0.0 omes-sec.heytapmobile.com
@@ -174,8 +176,8 @@
 0.0.0.0 static.amplitude.com
 
 # others
-0.0.0.0 yandex.ru
-0.0.0.0 m.yandex.ru
+0.0.0.0 www.drjaqsssfxpytk.com
+0.0.0.0 www.yqjwytbpx.com
 0.0.0.0 sendsay.ru
 0.0.0.0 image.sendsay.ru
 0.0.0.0 www.statcounter.com
