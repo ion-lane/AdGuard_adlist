@@ -2,6 +2,8 @@
 # Date: 13 Jun 2024
 
 # Opera browse
+0.0.0.0 merchandise.opera-api2.com
+0.0.0.0 redir.opera.com
 0.0.0.0 pinboard.opera.com
 0.0.0.0 weather.opera-api2.com
 0.0.0.0 redirect.opera.com
