@@ -1,7 +1,10 @@
 # Additional domains for Pi-hole
-# Date: 13 Jun 2024
+# Date: 21 Jun 2024
 
 # Opera browse
+
+0.0.0.0 ab-merchandise.opera-api.com
+0.0.0.0 cashback-api-production.operacdn.com
 0.0.0.0 merchandise.opera-api2.com
 0.0.0.0 redir.opera.com
 0.0.0.0 pinboard.opera.com
