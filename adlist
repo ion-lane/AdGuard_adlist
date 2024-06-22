@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 21 Jun 2024
+# Date: 22 Jun 2024
 
 # Opera browse
 
@@ -181,6 +181,19 @@
 0.0.0.0 info.amplitude.com
 0.0.0.0 regionconfig.amplitude.com
 0.0.0.0 static.amplitude.com
+
+# iplogger
+0.0.0.0 iplogger.org
+0.0.0.0 2no.co
+0.0.0.0 iplogger.com
+0.0.0.0 iplogger.ru
+0.0.0.0 yip.su
+0.0.0.0 iplogger.co
+0.0.0.0 iplogger.info
+0.0.0.0 ipgrabber.ru
+0.0.0.0 ipgraber.ru
+0.0.0.0 iplis.ru
+0.0.0.0 02ip.ru
 
 # others
 0.0.0.0 www.drjaqsssfxpytk.com
