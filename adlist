@@ -3,6 +3,9 @@
 
 # Opera browse
 
+0.0.0.0 submit-target.osp.opera.software
+0.0.0.0 submit.geo.opera.com
+0.0.0.0 submit-trn.osp.opera.software
 0.0.0.0 ab-merchandise.opera-api.com
 0.0.0.0 cashback-api-production.operacdn.com
 0.0.0.0 merchandise.opera-api2.com
