@@ -1,7 +1,7 @@
 # Additional domains for Pi-hole
 # Date: 24 Jun 2024
 
-# Opera browse
+# Opera browser
 
 0.0.0.0 submit-target.osp.opera.software
 0.0.0.0 submit.geo.opera.com
