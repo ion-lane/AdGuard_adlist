@@ -112,6 +112,21 @@
 0.0.0.0 sso.passport.yandex.ru
 0.0.0.0 yandex.ru
 0.0.0.0 m.yandex.ru
+||adsdk.yandex.ru^
+||advertising.yandex.ru^
+||appmetrica.yandex.ru^
+||appmetrika.yandex.ru^
+||awsync.yandex.ru^
+||bs-meta.yandex.ru^
+||bs-metadsp.yandex.ru^
+||analytics.market.yandex.ru^
+||mc.yandex.ru^
+||metric.yandex.ru^
+||metrika.yandex.ru^
+||log.strm.yandex.ru^
+||uaas.yandex.ru^
+||zen-test.yandex.ru^
+||startup-mobile.ap.yandex-net.ru^
 
 # realme phone
 0.0.0.0 omes-sec.heytapmobile.com
