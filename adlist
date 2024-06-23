@@ -112,21 +112,21 @@
 0.0.0.0 sso.passport.yandex.ru
 0.0.0.0 yandex.ru
 0.0.0.0 m.yandex.ru
-||adsdk.yandex.ru^
-||advertising.yandex.ru^
-||appmetrica.yandex.ru^
-||appmetrika.yandex.ru^
-||awsync.yandex.ru^
-||bs-meta.yandex.ru^
-||bs-metadsp.yandex.ru^
-||analytics.market.yandex.ru^
-||mc.yandex.ru^
-||metric.yandex.ru^
-||metrika.yandex.ru^
-||log.strm.yandex.ru^
-||uaas.yandex.ru^
-||zen-test.yandex.ru^
-||startup-mobile.ap.yandex-net.ru^
+0.0.0.0 adsdk.yandex.ru
+0.0.0.0 advertising.yandex.ru
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 appmetrika.yandex.ru
+0.0.0.0 awsync.yandex.ru
+0.0.0.0 bs-meta.yandex.ru
+0.0.0.0 bs-metadsp.yandex.ru
+0.0.0.0 analytics.market.yandex.ru
+0.0.0.0 mc.yandex.ru
+0.0.0.0 metric.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 log.strm.yandex.ru
+0.0.0.0 uaas.yandex.ru
+0.0.0.0 zen-test.yandex.ru
+0.0.0.0 startup-mobile.ap.yandex-net.ru
 
 # realme phone
 0.0.0.0 omes-sec.heytapmobile.com
