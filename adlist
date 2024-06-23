@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 22 Jun 2024
+# Date: 24 Jun 2024
 
 # Opera browse
 
@@ -199,6 +199,11 @@
 0.0.0.0 ipgraber.ru
 0.0.0.0 iplis.ru
 0.0.0.0 02ip.ru
+
+# 2gis
+0.0.0.0 analytics.2gis.com
+0.0.0.0 stat.api.2gis.ru
+
 
 # others
 0.0.0. ssp.rambler.ru
