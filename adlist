@@ -203,7 +203,7 @@
 # 2gis
 0.0.0.0 analytics.2gis.com
 0.0.0.0 stat.api.2gis.ru
-
+0.0.0.0 advisor.api.2gis.ru
 
 # others
 0.0.0. ssp.rambler.ru
@@ -231,7 +231,6 @@
 0.0.0.0 i.ibb.co
 0.0.0.0 go.mixtraffik.ru
 0.0.0.0 ip4.tracker-api.my.com
-0.0.0.0 advisor.api.2gis.ru
 0.0.0.0 tracking.diginetica.net
 0.0.0.0 stats.rustore.ru
 0.0.0.0 content.adfox.ru
