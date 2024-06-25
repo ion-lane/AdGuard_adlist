@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 24 Jun 2024
+# Date: 25 Jun 2024
 
 # Opera browser
 
@@ -47,7 +47,6 @@
 0.0.0.0 subscriptions.opera.com
 
 # Google services
-0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 nearbysharing-pa.googleapis.com
