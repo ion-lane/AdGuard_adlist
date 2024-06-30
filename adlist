@@ -168,6 +168,7 @@
 0.0.0.0 self.events.data.microsoft.com
 
 # sentry
+0.0.0.0 o418887.ingest.sentry.io
 0.0.0.0 o76327.ingest.sentry.io
 0.0.0.0 o1326854.ingest.sentry.io
 0.0.0.0 o519161.ingest.sentry.io
@@ -178,7 +179,6 @@
 0.0.0.0 sentry-api.sberdevices.ru
 0.0.0.0 sentry.ispsystem.net
 0.0.0.0 sentry-relay.beeline.ru
-0.0.0.0 o418887.ingest.sentry.io
 0.0.0.0 sentry.srv.habr.com
 0.0.0.0 sentry-tech.cdek.ru
 
