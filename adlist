@@ -178,6 +178,9 @@
 0.0.0.0 sentry-api.sberdevices.ru
 0.0.0.0 sentry.ispsystem.net
 0.0.0.0 sentry-relay.beeline.ru
+0.0.0.0 o418887.ingest.sentry.io
+0.0.0.0 sentry.srv.habr.com
+0.0.0.0 sentry-tech.cdek.ru
 
 # dbankcloud
 0.0.0.0 connect-dre.dbankcloud.cn
