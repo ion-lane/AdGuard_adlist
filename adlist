@@ -177,6 +177,7 @@
 0.0.0.0 sentry.xn--80ajbekothchmme5j.xn--p1ai
 0.0.0.0 sentry-api.sberdevices.ru
 0.0.0.0 sentry.ispsystem.net
+0.0.0.0 sentry-relay.beeline.ru
 
 # dbankcloud
 0.0.0.0 connect-dre.dbankcloud.cn
