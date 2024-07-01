@@ -225,7 +225,14 @@
 0.0.0.0 advisor.api.2gis.ru
 
 # others
-0.0.0. ssp.rambler.ru
+0.0.0.0 static.smi2.net
+0.0.0.0 cdnjs.smi2.ru
+0.0.0.0 smi2.net
+0.0.0.0 smi2.ru
+0.0.0.0 static6.smi2.net
+0.0.0.0 static7.smi2.net
+0.0.0.0 static1.smi2.net
+0.0.0.0 ssp.rambler.ru
 0.0.0.0 tracking.retailrocket.ru
 0.0.0.0 cdn.retailrocket.ru
 0.0.0.0 ee2cc1f8.rocketcdn.me
