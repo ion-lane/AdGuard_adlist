@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 01 Jul 2024
+# Date: 03 Jul 2024
 
 # Opera browser
 
@@ -85,7 +85,6 @@
 0.0.0.0 remoteprovisioning.googleapis.com
 
 # Yandex services
-0.0.0.0 storage.yandexcloud.net
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 adfox.yandex.ru
