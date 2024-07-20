@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 16 Jul 2024
+# Date: 20 Jul 2024
 
 # Opera browser
 
@@ -169,6 +169,7 @@
 0.0.0.0 self.events.data.microsoft.com
 
 # sentry
+0.0.0.0 o155150.ingest.sentry.io
 0.0.0.0 o418887.ingest.sentry.io
 0.0.0.0 o76327.ingest.sentry.io
 0.0.0.0 o1326854.ingest.sentry.io
