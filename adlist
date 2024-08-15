@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 11 Aug 2024
+# Date: 16 Aug 2024
 
 # Opera browser
 
@@ -232,6 +232,8 @@
 0.0.0.0 advisor.api.2gis.ru
 
 # others
+0.0.0.0 cdn.polyfill.io
+0.0.0.0 antibotcloud.com
 0.0.0.0 static.smi2.net
 0.0.0.0 cdnjs.smi2.ru
 0.0.0.0 smi2.net
