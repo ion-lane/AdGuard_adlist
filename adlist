@@ -1,8 +1,9 @@
 # Additional domains for Pi-hole
-# Date: 16 Aug 2024
+# Date: 09 Sep 2024
 
 # Opera browser
 
+0.0.0.0 ft-oscore.opera-api2.com
 0.0.0.0 sitesuggestion.opera-api.com
 0.0.0.0 wallpaperapi.sofa.opera-api2.com
 0.0.0.0 submit-target.osp.opera.software
