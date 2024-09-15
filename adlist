@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 14 Sep 2024
+# Date: 15 Sep 2024
 
 # Opera browser
 
@@ -62,9 +62,7 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 myphonenumbers-pa.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
-0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 userlocation.googleapis.com
-0.0.0.0 rr1---sn-5hne6nzy.gvt1.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons5.gvt3.com
@@ -75,7 +73,6 @@
 0.0.0.0 chromesyncpasswords-pa.googleapis.com
 0.0.0.0 phonedeviceverification-pa.googleapis.com
 0.0.0.0 businesscalls.googleapis.com
-0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 update.googleapis.com
 0.0.0.0 xgapromomanager-pa.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
