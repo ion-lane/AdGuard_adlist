@@ -1,11 +1,12 @@
 # Additional domains for Pi-hole
-# Date: 24 Sep 2024
+# Date: 27 Sep 2024
 
 # TP-link IP camera
 0.0.0.0 n-relay-ipc.tplinkcloud.com.cn
 0.0.0.0 n-euw1-device-api.tplinkcloud.com
 0.0.0.0 n-deventry-sur.tplinkcloud.com
 0.0.0.0 n-sur-api.tplinkcloud.com
+0.0.0.0 n-wap-sur.tplinkcloud.com
 
 # Opera browser
 0.0.0.0 op.mykonf.com
