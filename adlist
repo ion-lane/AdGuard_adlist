@@ -56,7 +56,7 @@
 0.0.0.0 subscriptions.opera.com
 
 # Google services
-||mtalk.google.com^
+||*mtalk.google.com^
 0.0.0.0 clienttracing-pa.googleapis.com
 0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 www.googleadservices.com
