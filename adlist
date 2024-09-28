@@ -1,5 +1,5 @@
 # Additional domains for Pi-hole
-# Date: 27 Sep 2024
+# Date: 28 Sep 2024
 
 # TP-link IP camera
 0.0.0.0 n-relay-ipc.tplinkcloud.com.cn
@@ -56,7 +56,7 @@
 0.0.0.0 subscriptions.opera.com
 
 # Google services
-0.0.0.0 mtalk.google.com
+||mtalk.google.com^
 0.0.0.0 clienttracing-pa.googleapis.com
 0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 www.googleadservices.com
@@ -69,13 +69,6 @@
 0.0.0.0 myphonenumbers-pa.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 userlocation.googleapis.com
-0.0.0.0 beacons.gvt2.com
-0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 beacons5.gvt3.com
-0.0.0.0 beacons2.gvt2.com
-0.0.0.0 beacons5.gvt2.com
-0.0.0.0 beacons4.gvt2.com
-0.0.0.0 beacons3.gvt2.com
 0.0.0.0 chromesyncpasswords-pa.googleapis.com
 0.0.0.0 phonedeviceverification-pa.googleapis.com
 0.0.0.0 businesscalls.googleapis.com
