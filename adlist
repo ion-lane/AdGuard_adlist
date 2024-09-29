@@ -1,9 +1,9 @@
 # Additional domains for Pi-hole
-# Date: 28 Sep 2024
+# Date: 30 Sep 2024
 
 # TP-link IP camera
-||tplinkcloud.com.cn
-||tplinkcloud.com
+||tplinkcloud.com.cn^
+||tplinkcloud.com^
 
 # Opera browser
 ||opera-api.com^
@@ -11,44 +11,24 @@
 ||opera.software^
 ||opera.technology^
 0.0.0.0 op.mykonf.com
-#0.0.0.0 ft-oscore.opera-api2.com
-#0.0.0.0 sitesuggestion.opera-api.com
-#0.0.0.0 wallpaperapi.sofa.opera-api2.com
-#0.0.0.0 submit-target.osp.opera.software
 0.0.0.0 submit.geo.opera.com
-#0.0.0.0 submit-trn.osp.opera.software
-#0.0.0.0 ab-merchandise.opera-api.com
 0.0.0.0 cashback-api-production.operacdn.com
-#0.0.0.0 merchandise.opera-api2.com
 0.0.0.0 redir.opera.com
 0.0.0.0 pinboard.opera.com
-#0.0.0.0 weather.opera-api2.com
 0.0.0.0 redirect.opera.com
 0.0.0.0 redirect.geo.opera.com
 0.0.0.0 sg-redirect.opera.com
-##0.0.0.0 singa.lb.opera.technology
 0.0.0.0 exchange.opera.com
-#0.0.0.0 siteicon.opera-api2.com
 0.0.0.0 ofa-r-sub.osp.opera.software
 0.0.0.0 files.myopera.com
-#0.0.0.0 sitesuggestion.opera-api2.com
 0.0.0.0 global-4-lvs-odra.opera-mini.net
-#0.0.0.0 siteicon.opera-api.com
 0.0.0.0 mcp.operacdn.com
-#0.0.0.0 mcp.opera-api.com
-#0.0.0.0 mcp.opera-api2.com
-#0.0.0.0 pns-sdk.opera-api.com
 0.0.0.0 sitecheck.geo.opera.com
 0.0.0.0 sd-images.operacdn.com
 0.0.0.0 speeddials.opera.com
 0.0.0.0 autoupdate.geo.opera.com
-#0.0.0.0 merchandise.opera-api.com
 0.0.0.0 af.opera.com
 0.0.0.0 crashstats-collector.opera.com
-#0.0.0.0 osp.opera.software
-#0.0.0.0 ofa-b-sub.osp.opera.software
-#0.0.0.0 ofa-2-sub.osp.opera.software
-#0.0.0.0 pns-sdk.opera-api2.com
 0.0.0.0 thumbnails2.opera.com
 0.0.0.0 xml.opera.com
 0.0.0.0 crashstats-collector.opera.com
@@ -83,7 +63,6 @@
 0.0.0.0 dns.google
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 locationhistory-pa.googleapis.com
-#0.0.0.0 google-analitycs.ru
 0.0.0.0 connectivitycheck.android.com
 0.0.0.0 remoteprovisioning.googleapis.com
 
@@ -141,20 +120,6 @@
 ||allawnos.com^
 ||hicloud.com^
 ||heytapdl.com^
-#0.0.0.0 omes-sec.heytapmobile.com
-#0.0.0.0 eap-log-sg.allawnos.com
-#0.0.0.0 sau-server-sg.allawnos.com
-#0.0.0.0 datacollector-dre.dt.hicloud.com
-#0.0.0.0 connect-dre.hispace.hicloud.com
-#0.0.0.0 obus-sg.dc.heytapmobile.com
-#0.0.0.0 obus-dc20123-sg.heytapmobile.com
-#0.0.0.0 mdp-appconf-ru.heytapdl.com
-#0.0.0.0 mdp-appconf-sg.heytapdl.com
-#0.0.0.0 hicloud.com
-#0.0.0.0 dt.hicloud.com
-#0.0.0.0 datacollector-drru.dt.hicloud.com
-#0.0.0.0 httpdns-push.heytapmobile.com
-#0.0.0.0 dc-conf-sg.heytapmobile.com
 
 # lenovo
 0.0.0.0 adbtips.lenovo.com
@@ -183,14 +148,6 @@
 ||sentry.io^
 ||getsentry.com^
 ||sentry-cdn.com^
-#0.0.0.0 o155150.ingest.sentry.io
-#0.0.0.0 o418887.ingest.sentry.io
-#0.0.0.0 o76327.ingest.sentry.io
-#0.0.0.0 o1326854.ingest.sentry.io
-#0.0.0.0 o519161.ingest.sentry.io
-#0.0.0.0 o1069899.ingest.sentry.io
-#0.0.0.0 browser.sentry-cdn.com
-#0.0.0.0 app.getsentry.com
 0.0.0.0 sentry.xn--80ajbekothchmme5j.xn--p1ai
 0.0.0.0 sentry-api.sberdevices.ru
 0.0.0.0 sentry.ispsystem.net
@@ -201,30 +158,12 @@
 # dbankcloud
 ||dbankcloud.cn^
 ||dbankcloud.com^
-#0.0.0.0 connect-dre.dbankcloud.cn
-#0.0.0.0 connect-drcn.dbankcloud.cn
-#0.0.0.0 web-drru.hispace.dbankcloud.com
-#0.0.0.0 grs.dbankcloud.cn
-#0.0.0.0 grs.dbankcloud.com
-#0.0.0.0 connect-drru.dbankcloud.cn
 
 # appsflyersdk
 ||appsflyersdk.com^
-#0.0.0.0 launches.appsflyersdk.com
-#0.0.0.0 cdn-settings.appsflyersdk.com
-#0.0.0.0 w8nbds-cdn-settings.appsflyersdk.com
-#0.0.0.0 inapps.appsflyersdk.com
-#0.0.0.0 rf64to-cdn-settings.appsflyersdk.com
 
 # amplitude
 ||amplitude.com^
-#0.0.0.0 amplitude.com
-#0.0.0.0 api.amplitude.com
-#0.0.0.0 api2.amplitude.com
-#0.0.0.0 cdn.amplitude.com
-#0.0.0.0 info.amplitude.com
-#0.0.0.0 regionconfig.amplitude.com
-#0.0.0.0 static.amplitude.com
 
 # iplogger
 0.0.0.0 iplogger.org
