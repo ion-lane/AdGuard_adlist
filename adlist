@@ -1,422 +1,422 @@
-# Additional domains for Pi-hole
-# Date: 30 Sep 2024
-
-# TP-link IP camera
+# Additional domains for Pi-hole^
+# Date: 30 Sep 2024^
+^
+# TP-link IP camera^
 ||tplinkcloud.com.cn^
 ||tplinkcloud.com^
-
-# Opera browser
+^
+# Opera browser^
 ||opera-api.com^
 ||opera-api2.com^
 ||opera.software^
 ||opera.technology^
-0.0.0.0 op.mykonf.com
-0.0.0.0 submit.geo.opera.com
-0.0.0.0 cashback-api-production.operacdn.com
-0.0.0.0 redir.opera.com
-0.0.0.0 pinboard.opera.com
-0.0.0.0 redirect.opera.com
-0.0.0.0 redirect.geo.opera.com
-0.0.0.0 sg-redirect.opera.com
-0.0.0.0 exchange.opera.com
-0.0.0.0 ofa-r-sub.osp.opera.software
-0.0.0.0 files.myopera.com
-0.0.0.0 global-4-lvs-odra.opera-mini.net
-0.0.0.0 mcp.operacdn.com
-0.0.0.0 sitecheck.geo.opera.com
-0.0.0.0 sd-images.operacdn.com
-0.0.0.0 speeddials.opera.com
-0.0.0.0 autoupdate.geo.opera.com
-0.0.0.0 af.opera.com
-0.0.0.0 crashstats-collector.opera.com
-0.0.0.0 thumbnails2.opera.com
-0.0.0.0 xml.opera.com
-0.0.0.0 crashstats-collector.opera.com
-0.0.0.0 sitecheck.opera.com
-0.0.0.0 thumbnails.opera.com
-0.0.0.0 subscriptions.opera.com
-
-# Google services
+||op.mykonf.com^
+||submit.geo.opera.com^
+||cashback-api-production.operacdn.com^
+||redir.opera.com^
+||pinboard.opera.com^
+||redirect.opera.com^
+||redirect.geo.opera.com^
+||sg-redirect.opera.com^
+||exchange.opera.com^
+||ofa-r-sub.osp.opera.software^
+||files.myopera.com^
+||global-4-lvs-odra.opera-mini.net^
+||mcp.operacdn.com^
+||sitecheck.geo.opera.com^
+||sd-images.operacdn.com^
+||speeddials.opera.com^
+||autoupdate.geo.opera.com^
+||af.opera.com^
+||crashstats-collector.opera.com^
+||thumbnails2.opera.com^
+||xml.opera.com^
+||crashstats-collector.opera.com^
+||sitecheck.opera.com^
+||thumbnails.opera.com^
+||subscriptions.opera.com^
+^
+# Google services^
 ||*mtalk.google.com^
 ||google-analitycs.ru^
-0.0.0.0 clienttracing-pa.googleapis.com
-0.0.0.0 semanticlocation-pa.googleapis.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 nearbysharing-pa.googleapis.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 google-analytics.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 googletagmanager.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 myphonenumbers-pa.googleapis.com
-0.0.0.0 firebaselogging-pa.googleapis.com
-0.0.0.0 userlocation.googleapis.com
-0.0.0.0 chromesyncpasswords-pa.googleapis.com
-0.0.0.0 phonedeviceverification-pa.googleapis.com
-0.0.0.0 businesscalls.googleapis.com
-0.0.0.0 update.googleapis.com
-0.0.0.0 xgapromomanager-pa.googleapis.com
-0.0.0.0 geller-pa.googleapis.com
-0.0.0.0 calendarpushsubscription-pa.googleapis.com
-0.0.0.0 footprints-pa.googleapis.com
-0.0.0.0 storage.googleapis.com
-0.0.0.0 dns.google
-0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 locationhistory-pa.googleapis.com
-0.0.0.0 connectivitycheck.android.com
-0.0.0.0 remoteprovisioning.googleapis.com
-
-# Yandex services
-0.0.0.0 api.lbs.yandex.net
-0.0.0.0 sba.yandex.net
-0.0.0.0 searchlib.yandex.net
-0.0.0.0 mobileproxy.passport.yandex.net
-0.0.0.0 rosenberg.appmetrica.yandex.net
-0.0.0.0 report.appmetrica.yandex.net
-0.0.0.0 adfox.yandex.ru
-0.0.0.0 mc.yandex.net
-0.0.0.0 an.yandex.ru
-0.0.0.0 api.browser.yandex.ru
-0.0.0.0 tools.messenger.yandex.net
-0.0.0.0 web-metrica.yandex.ru
-0.0.0.0 captcha-api.yandex.ru
-0.0.0.0 static-mon.yandex.net
-0.0.0.0 avatars.mds.yandex.net
-0.0.0.0 resize.yandex.net
-0.0.0.0 uptime-info.yandex.ru
-0.0.0.0 http-check-headers.yandex.ru
-0.0.0.0 push.yandex.ru
-0.0.0.0 bs.yandex.ru
-0.0.0.0 static.yandex.net
-0.0.0.0 startup-balancer.stable.qloud-b.yandex.net
-0.0.0.0 awaps.yandex.ru
-0.0.0.0 amc.yandex.ru
-0.0.0.0 adfstat.yandex.ru
-0.0.0.0 yabs.yandex.ru
-0.0.0.0 sso.dzen.ru
-0.0.0.0 sso.passport.yandex.ru
-0.0.0.0 yandex.ru
-0.0.0.0 m.yandex.ru
-0.0.0.0 adsdk.yandex.ru
-0.0.0.0 advertising.yandex.ru
-0.0.0.0 appmetrica.yandex.ru
-0.0.0.0 appmetrika.yandex.ru
-0.0.0.0 awsync.yandex.ru
-0.0.0.0 bs-meta.yandex.ru
-0.0.0.0 bs-metadsp.yandex.ru
-0.0.0.0 analytics.market.yandex.ru
-0.0.0.0 mc.yandex.ru
-0.0.0.0 metric.yandex.ru
-0.0.0.0 metrika.yandex.ru
-0.0.0.0 log.strm.yandex.ru
-0.0.0.0 uaas.yandex.ru
-0.0.0.0 zen-test.yandex.ru
-0.0.0.0 startup-mobile.ap.yandex-net.ru
-0.0.0.0 dr.yandex.net
-0.0.0.0 api.browser.yandex.net
-
-# realme phone
+||clienttracing-pa.googleapis.com^
+||semanticlocation-pa.googleapis.com^
+||www.googleadservices.com^
+||nearbysharing-pa.googleapis.com^
+||pagead2.googlesyndication.com^
+||google-analytics.com^
+||www.google-analytics.com^
+||googletagmanager.com^
+||www.googletagmanager.com^
+||myphonenumbers-pa.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||userlocation.googleapis.com^
+||chromesyncpasswords-pa.googleapis.com^
+||phonedeviceverification-pa.googleapis.com^
+||businesscalls.googleapis.com^
+||update.googleapis.com^
+||xgapromomanager-pa.googleapis.com^
+||geller-pa.googleapis.com^
+||calendarpushsubscription-pa.googleapis.com^
+||footprints-pa.googleapis.com^
+||storage.googleapis.com^
+||dns.google^
+||firebase-settings.crashlytics.com^
+||locationhistory-pa.googleapis.com^
+||connectivitycheck.android.com^
+||remoteprovisioning.googleapis.com^
+^
+# Yandex services^
+||api.lbs.yandex.net^
+||sba.yandex.net^
+||searchlib.yandex.net^
+||mobileproxy.passport.yandex.net^
+||rosenberg.appmetrica.yandex.net^
+||report.appmetrica.yandex.net^
+||adfox.yandex.ru^
+||mc.yandex.net^
+||an.yandex.ru^
+||api.browser.yandex.ru^
+||tools.messenger.yandex.net^
+||web-metrica.yandex.ru^
+||captcha-api.yandex.ru^
+||static-mon.yandex.net^
+||avatars.mds.yandex.net^
+||resize.yandex.net^
+||uptime-info.yandex.ru^
+||http-check-headers.yandex.ru^
+||push.yandex.ru^
+||bs.yandex.ru^
+||static.yandex.net^
+||startup-balancer.stable.qloud-b.yandex.net^
+||awaps.yandex.ru^
+||amc.yandex.ru^
+||adfstat.yandex.ru^
+||yabs.yandex.ru^
+||sso.dzen.ru^
+||sso.passport.yandex.ru^
+||yandex.ru^
+||m.yandex.ru^
+||adsdk.yandex.ru^
+||advertising.yandex.ru^
+||appmetrica.yandex.ru^
+||appmetrika.yandex.ru^
+||awsync.yandex.ru^
+||bs-meta.yandex.ru^
+||bs-metadsp.yandex.ru^
+||analytics.market.yandex.ru^
+||mc.yandex.ru^
+||metric.yandex.ru^
+||metrika.yandex.ru^
+||log.strm.yandex.ru^
+||uaas.yandex.ru^
+||zen-test.yandex.ru^
+||startup-mobile.ap.yandex-net.ru^
+||dr.yandex.net^
+||api.browser.yandex.net^
+^
+# realme phone^
 ||heytapmobile.com^
 ||allawnos.com^
 ||hicloud.com^
 ||heytapdl.com^
-
-# lenovo
-0.0.0.0 adbtips.lenovo.com
-0.0.0.0 osfsr.lenovomm.com
-0.0.0.0 uefsr.lenovomm.com
-0.0.0.0 config.fsr.lenovomm.com
-0.0.0.0 epg.vgs.lenovo.com.cn
-0.0.0.0 ota.lenovo.com
-0.0.0.0 www.lenovo.com
-0.0.0.0 s.lenovo.com
-0.0.0.0 openapi.lenovo.com
-
-# microsoft
-0.0.0.0 officeclient.microsoft.com
-0.0.0.0 in.appcenter.ms
-0.0.0.0 mobilecenter.azureedge.net
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 affiliationjs.s3.amazonaws.com
-0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 amazonaax.com
-0.0.0.0 amazonclix.com
-0.0.0.0 nexusrules.officeapps.live.com
-0.0.0.0 self.events.data.microsoft.com
-
-# sentry
+^
+# lenovo^
+||adbtips.lenovo.com^
+||osfsr.lenovomm.com^
+||uefsr.lenovomm.com^
+||config.fsr.lenovomm.com^
+||epg.vgs.lenovo.com.cn^
+||ota.lenovo.com^
+||www.lenovo.com^
+||s.lenovo.com^
+||openapi.lenovo.com^
+^
+# microsoft^
+||officeclient.microsoft.com^
+||in.appcenter.ms^
+||mobilecenter.azureedge.net^
+||analyticsengine.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||amazonaax.com^
+||amazonclix.com^
+||nexusrules.officeapps.live.com^
+||self.events.data.microsoft.com^
+^
+# sentry^
 ||sentry.io^
 ||getsentry.com^
 ||sentry-cdn.com^
-0.0.0.0 sentry.xn--80ajbekothchmme5j.xn--p1ai
-0.0.0.0 sentry-api.sberdevices.ru
-0.0.0.0 sentry.ispsystem.net
-0.0.0.0 sentry-relay.beeline.ru
-0.0.0.0 sentry.srv.habr.com
-0.0.0.0 sentry-tech.cdek.ru
-
-# dbankcloud
+||sentry.xn--80ajbekothchmme5j.xn--p1ai^
+||sentry-api.sberdevices.ru^
+||sentry.ispsystem.net^
+||sentry-relay.beeline.ru^
+||sentry.srv.habr.com^
+||sentry-tech.cdek.ru^
+^
+# dbankcloud^
 ||dbankcloud.cn^
 ||dbankcloud.com^
-
-# appsflyersdk
+^
+# appsflyersdk^
 ||appsflyersdk.com^
-
-# amplitude
+^
+# amplitude^
 ||amplitude.com^
-
-# iplogger
-0.0.0.0 iplogger.org
-0.0.0.0 2no.co
-0.0.0.0 iplogger.com
-0.0.0.0 iplogger.ru
-0.0.0.0 yip.su
-0.0.0.0 iplogger.co
-0.0.0.0 iplogger.info
-0.0.0.0 ipgrabber.ru
-0.0.0.0 ipgraber.ru
-0.0.0.0 iplis.ru
-0.0.0.0 02ip.ru
-
-# 2gis
-0.0.0.0 analytics.2gis.com
-0.0.0.0 stat.api.2gis.ru
-0.0.0.0 advisor.api.2gis.ru
-
-# others
-0.0.0.0 cdn.polyfill.io
-0.0.0.0 antibotcloud.com
-0.0.0.0 static.smi2.net
-0.0.0.0 cdnjs.smi2.ru
-0.0.0.0 smi2.net
-0.0.0.0 smi2.ru
-0.0.0.0 static6.smi2.net
-0.0.0.0 static7.smi2.net
-0.0.0.0 static1.smi2.net
-0.0.0.0 ssp.rambler.ru
-0.0.0.0 tracking.retailrocket.ru
-0.0.0.0 cdn.retailrocket.ru
-0.0.0.0 ee2cc1f8.rocketcdn.me
-0.0.0.0 www.drjaqsssfxpytk.com
-0.0.0.0 www.yqjwytbpx.com
-0.0.0.0 sendsay.ru
-0.0.0.0 image.sendsay.ru
-0.0.0.0 www.statcounter.com
-0.0.0.0 bpb.ukyuh.tech
-0.0.0.0 socfishing.com
-0.0.0.0 soceffect.ru
-0.0.0.0 dmp.one
-0.0.0.0 manalyticshub.com
-0.0.0.0 whitesaas.com
-0.0.0.0 profilepxl.ru
-0.0.0.0 dmg.digitaltarget.ru
-0.0.0.0 acint.net
-0.0.0.0 onef.pro
-0.0.0.0 pixel.data-leads.ru
-0.0.0.0 sheisnotateacher.com
-0.0.0.0 iworkwiththem.com
-0.0.0.0 i.ibb.co
-0.0.0.0 go.mixtraffik.ru
-0.0.0.0 ip4.tracker-api.my.com
-0.0.0.0 tracking.diginetica.net
-0.0.0.0 stats.rustore.ru
-0.0.0.0 content.adfox.ru
-0.0.0.0 ad.simpledesign.ltd
-0.0.0.0 cpatracking.ru
-0.0.0.0 analytics.dns-shop.ru
-0.0.0.0 5922505.fls.doubleclick.net
-0.0.0.0 api.revenuecat.com
-0.0.0.0 mobile-api.ru
-0.0.0.0 web-korobka.ru
-0.0.0.0 r.mail.ru
-0.0.0.0 oneclient.sfx.ms
-0.0.0.0 bs-dante.ru
-0.0.0.0 adviser.bs-dante.ru
-0.0.0.0 antiterroristqueenjolly.com
-0.0.0.0 absorbinginject.com
-0.0.0.0 advertising.twitter.com
-0.0.0.0 widgets.pinterest.com
-0.0.0.0 d.reddit.com
-0.0.0.0 www.cdn.ad.xiaomi.com
-0.0.0.0 ads-sg.tiktok.com
-0.0.0.0 samsungadhub.com
-0.0.0.0 track.aplaut.io
-0.0.0.0 partners.leroymerlin.ru
-0.0.0.0 sys.datadrivenpromotion.com
-0.0.0.0 captive.v2ex.co
-0.0.0.0 m.melbet.ru
-0.0.0.0 advcash.com
-0.0.0.0 1xstavka.ru
-0.0.0.0 member.neteller.com
-0.0.0.0 wallet.advcash.com
-0.0.0.0 sportandbets.com
-0.0.0.0 robinbob.in
-0.0.0.0 cdn.kwork.ru
-0.0.0.0 sync.dmp.otm-r.com
-0.0.0.0 s.uuidksinc.net
-0.0.0.0 sm.rtb.mts.ru
-0.0.0.0 euw-ice.360yield.com
-0.0.0.0 tech.rtb.mts.ru
-0.0.0.0 redirect.frontend.weborama.fr
-0.0.0.0 adsnow.ru
-0.0.0.0 kraken.rambler.ru
-0.0.0.0 log.rosdomofon.com
-0.0.0.0 cdn.jsdelivr.net
-0.0.0.0 cdn-edge.kwork.ru
-0.0.0.0 code.createjs.com
-0.0.0.0 c.tenor.com
-0.0.0.0 cdn.adfinity.pro
-0.0.0.0 cdn.aaacdn.net
-0.0.0.0 u.startup.mobile.webvisor.com
-0.0.0.0 startup.mobile.webvisor.com
-0.0.0.0 location.services.mozilla.com
-0.0.0.0 geo.tildacdn.com
-0.0.0.0 trackingapi.trendemon.com
-0.0.0.0 push-row.zui.com
-0.0.0.0 bar.love.mail.ru
-0.0.0.0 distributionrealmoth.com
-0.0.0.0 www.effectivecreativeformat.com
-0.0.0.0 linksforfree.com
-0.0.0.0 uniformutilitiesexpressing.com
-0.0.0.0 50abe8a408.ec5e727d37.com
-0.0.0.0 api-a.oleads.com
-0.0.0.0 vsexshop.ru
-0.0.0.0 imgs.vsex-shop.ru
-0.0.0.0 adblocksosal.ru
-0.0.0.0 vpipi.com
-0.0.0.0 track.analitycs.net
-0.0.0.0 infobar.hsdn.org
-0.0.0.0 rutrk.org
-0.0.0.0 owww.avito.st
-0.0.0.0 cdn.advg.agency
-0.0.0.0 i.dynspt.com
-0.0.0.0 bjiuck.com
-0.0.0.0 top-fwz1.mail.ru
-0.0.0.0 lovikupon.ru
-0.0.0.0 vladivostok.lovikupon.ru
-0.0.0.0 adsmetadata.mobileadexchange.net
-0.0.0.0 betsonsport.ru
-0.0.0.0 www.betsonsport.ru
-0.0.0.0 cloud2.mikrotik.com
-0.0.0.0 forbidden.podryad.tv
-0.0.0.0 ads.sber.ru
-0.0.0.0 wcm-ru.frontend.weborama.fr
-0.0.0.0 sync.gonet-ads.com
-0.0.0.0 adx.com.ru
-0.0.0.0 ad.moe.video
-0.0.0.0 st.top100.ru
-0.0.0.0 otclick-adv.ru
-0.0.0.0 static.moviead55.ru
-0.0.0.0 bezno3.moe.video
-0.0.0.0 dsp.gonet-ads.com
-0.0.0.0 api-ui.gonet-ads.com
-0.0.0.0 rhqsy4.moe.video
-0.0.0.0 adv.mail.ru
-0.0.0.0 stat.adlook.me
-0.0.0.0 ads.adlook.me
-0.0.0.0 ssp.adriver.ru
-0.0.0.0 ad.adriver.ru
-0.0.0.0 auth.split.io
-0.0.0.0 events.split.io
-0.0.0.0 sdk.split.io
-0.0.0.0 ru.ekatox.com
-0.0.0.0 litemsg.ekatox.com
-0.0.0.0 liteapi.ekatox.com
-0.0.0.0 px.adhigh.net
-0.0.0.0 ads.betweendigital.com
-0.0.0.0 mincifry-cert.vk.com
-0.0.0.0 refpa59720.top
-0.0.0.0 refpa4293501.top
-0.0.0.0 1xlite-890075.top
-0.0.0.0 1xlite-230379.top
-0.0.0.0 mainotter.com
-0.0.0.0 streetuptowind.com
-0.0.0.0 speedme.ir
-0.0.0.0 www.cltmfstu.com
-0.0.0.0 www.vkxpihctykjzlc.com
-0.0.0.0 ta.sharemasala.com
-0.0.0.0 conf.piojm.tech
-0.0.0.0 sponsor.ajay.app
-0.0.0.0 adsrv.hh.ru
-0.0.0.0 adx-tk.mtgglobals.com
-0.0.0.0 de01.mtgglobals.com
-0.0.0.0 metrics.prom.third-party-app.sberdevices.ru
-0.0.0.0 dsp-rambler.ru
-0.0.0.0 mrobot.mega-net.ru
-0.0.0.0 static-fed.dfaklj.tech
-0.0.0.0 al-array.com
-0.0.0.0 api.al-array.com
-0.0.0.0 api.polaris.al-array.com
-0.0.0.0 polaris.al-array.com
-0.0.0.0 s.click.aliexpress.com
-0.0.0.0 altitude-arena.com
-0.0.0.0 ads.altitude-arena.com
-0.0.0.0 g-api.ekatox.com
-0.0.0.0 advombat.ru
-0.0.0.0 adwise.ru
-0.0.0.0 auditorius.ru
-0.0.0.0 avdpro.ru
-0.0.0.0 begun.ru
-0.0.0.0 click.kmindex.ru
-0.0.0.0 click.readme.ru
-0.0.0.0 cnt.rambler.ru
-0.0.0.0 count.rbc.ru
-0.0.0.0 counter.24log.ru
-0.0.0.0 counter.rambler.ru
-0.0.0.0 counter.yadro.ru
-0.0.0.0 counting.kmindex.ru
-0.0.0.0 datacentric.ru
-0.0.0.0 dumedia.ru
-0.0.0.0 ekomi-ru.com
-0.0.0.0 exebid.ru
-0.0.0.0 eyenewton.ru
-0.0.0.0 facetz.ru
-0.0.0.0 faza.ru
-0.0.0.0 gamblingtraffic.ru
-0.0.0.0 hc.uralweb.ru
-0.0.0.0 hotlog.ru
-0.0.0.0 ladycash.ru
-0.0.0.0 liveinternet.ru
-0.0.0.0 luxup.ru
-0.0.0.0 message-spy.ru
-0.0.0.0 netlog.ru
-0.0.0.0 nnn.ru
-0.0.0.0 officemart.ru
-0.0.0.0 pp.ru
-0.0.0.0 rutargeter.com
-0.0.0.0 sniperlog.ru
-0.0.0.0 spylog.ru
-0.0.0.0 stat.stars.ru
-0.0.0.0 utarget.ru
-0.0.0.0 yadro.ru
-0.0.0.0 ws.audioscrobbler.com
-0.0.0.0 graph.facebook.com
-
-# regexp
-0.0.0.0 killtarget.biz
-0.0.0.0 dbankcloud.cn
-0.0.0.0 adserv.ai
-0.0.0.0 moviead55.ru
-0.0.0.0 betx.su
-0.0.0.0 allawntech.com
-0.0.0.0 userx.pro
-0.0.0.0 audioscrobbler.com
-0.0.0.0 revenuecat.com
-0.0.0.0 tuyaus.com
-0.0.0.0 ishowyoufuture.com
-0.0.0.0 rax.ru
-0.0.0.0 trafficbass.com
-0.0.0.0 adtwister.me
-0.0.0.0 awsglobalaccelerator.com
-0.0.0.0 adlabs.ru
-0.0.0.0 adstreamer.ru
-0.0.0.0 hshh.org
-0.0.0.0 lenovomm.cn
-0.0.0.0 lenovomm.com.cn
-0.0.0.0 nllapps.com
-0.0.0.0 dadata.ru
-0.0.0.0 akadns.net
-0.0.0.0 getflowbox.com
-0.0.0.0 notsy.io
-0.0.0.0 evenads.com
-0.0.0.0 e-v-e-n.me
+^
+# iplogger^
+||iplogger.org^
+||2no.co^
+||iplogger.com^
+||iplogger.ru^
+||yip.su^
+||iplogger.co^
+||iplogger.info^
+||ipgrabber.ru^
+||ipgraber.ru^
+||iplis.ru^
+||02ip.ru^
+^
+# 2gis^
+||analytics.2gis.com^
+||stat.api.2gis.ru^
+||advisor.api.2gis.ru^
+^
+# others^
+||cdn.polyfill.io^
+||antibotcloud.com^
+||static.smi2.net^
+||cdnjs.smi2.ru^
+||smi2.net^
+||smi2.ru^
+||static6.smi2.net^
+||static7.smi2.net^
+||static1.smi2.net^
+||ssp.rambler.ru^
+||tracking.retailrocket.ru^
+||cdn.retailrocket.ru^
+||ee2cc1f8.rocketcdn.me^
+||www.drjaqsssfxpytk.com^
+||www.yqjwytbpx.com^
+||sendsay.ru^
+||image.sendsay.ru^
+||www.statcounter.com^
+||bpb.ukyuh.tech^
+||socfishing.com^
+||soceffect.ru^
+||dmp.one^
+||manalyticshub.com^
+||whitesaas.com^
+||profilepxl.ru^
+||dmg.digitaltarget.ru^
+||acint.net^
+||onef.pro^
+||pixel.data-leads.ru^
+||sheisnotateacher.com^
+||iworkwiththem.com^
+||i.ibb.co^
+||go.mixtraffik.ru^
+||ip4.tracker-api.my.com^
+||tracking.diginetica.net^
+||stats.rustore.ru^
+||content.adfox.ru^
+||ad.simpledesign.ltd^
+||cpatracking.ru^
+||analytics.dns-shop.ru^
+||5922505.fls.doubleclick.net^
+||api.revenuecat.com^
+||mobile-api.ru^
+||web-korobka.ru^
+||r.mail.ru^
+||oneclient.sfx.ms^
+||bs-dante.ru^
+||adviser.bs-dante.ru^
+||antiterroristqueenjolly.com^
+||absorbinginject.com^
+||advertising.twitter.com^
+||widgets.pinterest.com^
+||d.reddit.com^
+||www.cdn.ad.xiaomi.com^
+||ads-sg.tiktok.com^
+||samsungadhub.com^
+||track.aplaut.io^
+||partners.leroymerlin.ru^
+||sys.datadrivenpromotion.com^
+||captive.v2ex.co^
+||m.melbet.ru^
+||advcash.com^
+||1xstavka.ru^
+||member.neteller.com^
+||wallet.advcash.com^
+||sportandbets.com^
+||robinbob.in^
+||cdn.kwork.ru^
+||sync.dmp.otm-r.com^
+||s.uuidksinc.net^
+||sm.rtb.mts.ru^
+||euw-ice.360yield.com^
+||tech.rtb.mts.ru^
+||redirect.frontend.weborama.fr^
+||adsnow.ru^
+||kraken.rambler.ru^
+||log.rosdomofon.com^
+||cdn.jsdelivr.net^
+||cdn-edge.kwork.ru^
+||code.createjs.com^
+||c.tenor.com^
+||cdn.adfinity.pro^
+||cdn.aaacdn.net^
+||u.startup.mobile.webvisor.com^
+||startup.mobile.webvisor.com^
+||location.services.mozilla.com^
+||geo.tildacdn.com^
+||trackingapi.trendemon.com^
+||push-row.zui.com^
+||bar.love.mail.ru^
+||distributionrealmoth.com^
+||www.effectivecreativeformat.com^
+||linksforfree.com^
+||uniformutilitiesexpressing.com^
+||50abe8a408.ec5e727d37.com^
+||api-a.oleads.com^
+||vsexshop.ru^
+||imgs.vsex-shop.ru^
+||adblocksosal.ru^
+||vpipi.com^
+||track.analitycs.net^
+||infobar.hsdn.org^
+||rutrk.org^
+||owww.avito.st^
+||cdn.advg.agency^
+||i.dynspt.com^
+||bjiuck.com^
+||top-fwz1.mail.ru^
+||lovikupon.ru^
+||vladivostok.lovikupon.ru^
+||adsmetadata.mobileadexchange.net^
+||betsonsport.ru^
+||www.betsonsport.ru^
+||cloud2.mikrotik.com^
+||forbidden.podryad.tv^
+||ads.sber.ru^
+||wcm-ru.frontend.weborama.fr^
+||sync.gonet-ads.com^
+||adx.com.ru^
+||ad.moe.video^
+||st.top100.ru^
+||otclick-adv.ru^
+||static.moviead55.ru^
+||bezno3.moe.video^
+||dsp.gonet-ads.com^
+||api-ui.gonet-ads.com^
+||rhqsy4.moe.video^
+||adv.mail.ru^
+||stat.adlook.me^
+||ads.adlook.me^
+||ssp.adriver.ru^
+||ad.adriver.ru^
+||auth.split.io^
+||events.split.io^
+||sdk.split.io^
+||ru.ekatox.com^
+||litemsg.ekatox.com^
+||liteapi.ekatox.com^
+||px.adhigh.net^
+||ads.betweendigital.com^
+||mincifry-cert.vk.com^
+||refpa59720.top^
+||refpa4293501.top^
+||1xlite-890075.top^
+||1xlite-230379.top^
+||mainotter.com^
+||streetuptowind.com^
+||speedme.ir^
+||www.cltmfstu.com^
+||www.vkxpihctykjzlc.com^
+||ta.sharemasala.com^
+||conf.piojm.tech^
+||sponsor.ajay.app^
+||adsrv.hh.ru^
+||adx-tk.mtgglobals.com^
+||de01.mtgglobals.com^
+||metrics.prom.third-party-app.sberdevices.ru^
+||dsp-rambler.ru^
+||mrobot.mega-net.ru^
+||static-fed.dfaklj.tech^
+||al-array.com^
+||api.al-array.com^
+||api.polaris.al-array.com^
+||polaris.al-array.com^
+||s.click.aliexpress.com^
+||altitude-arena.com^
+||ads.altitude-arena.com^
+||g-api.ekatox.com^
+||advombat.ru^
+||adwise.ru^
+||auditorius.ru^
+||avdpro.ru^
+||begun.ru^
+||click.kmindex.ru^
+||click.readme.ru^
+||cnt.rambler.ru^
+||count.rbc.ru^
+||counter.24log.ru^
+||counter.rambler.ru^
+||counter.yadro.ru^
+||counting.kmindex.ru^
+||datacentric.ru^
+||dumedia.ru^
+||ekomi-ru.com^
+||exebid.ru^
+||eyenewton.ru^
+||facetz.ru^
+||faza.ru^
+||gamblingtraffic.ru^
+||hc.uralweb.ru^
+||hotlog.ru^
+||ladycash.ru^
+||liveinternet.ru^
+||luxup.ru^
+||message-spy.ru^
+||netlog.ru^
+||nnn.ru^
+||officemart.ru^
+||pp.ru^
+||rutargeter.com^
+||sniperlog.ru^
+||spylog.ru^
+||stat.stars.ru^
+||utarget.ru^
+||yadro.ru^
+||ws.audioscrobbler.com^
+||graph.facebook.com^
+^
+# regexp^
+||killtarget.biz^
+||dbankcloud.cn^
+||adserv.ai^
+||moviead55.ru^
+||betx.su^
+||allawntech.com^
+||userx.pro^
+||audioscrobbler.com^
+||revenuecat.com^
+||tuyaus.com^
+||ishowyoufuture.com^
+||rax.ru^
+||trafficbass.com^
+||adtwister.me^
+||awsglobalaccelerator.com^
+||adlabs.ru^
+||adstreamer.ru^
+||hshh.org^
+||lenovomm.cn^
+||lenovomm.com.cn^
+||nllapps.com^
+||dadata.ru^
+||akadns.net^
+||getflowbox.com^
+||notsy.io^
+||evenads.com^
+||e-v-e-n.me^
