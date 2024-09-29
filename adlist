@@ -6,45 +6,49 @@
 ||tplinkcloud.com
 
 # Opera browser
+||opera-api.com^
+||opera-api2.com^
+||opera.software^
+||opera.technology^
 0.0.0.0 op.mykonf.com
-0.0.0.0 ft-oscore.opera-api2.com
-0.0.0.0 sitesuggestion.opera-api.com
-0.0.0.0 wallpaperapi.sofa.opera-api2.com
-0.0.0.0 submit-target.osp.opera.software
+#0.0.0.0 ft-oscore.opera-api2.com
+#0.0.0.0 sitesuggestion.opera-api.com
+#0.0.0.0 wallpaperapi.sofa.opera-api2.com
+#0.0.0.0 submit-target.osp.opera.software
 0.0.0.0 submit.geo.opera.com
-0.0.0.0 submit-trn.osp.opera.software
-0.0.0.0 ab-merchandise.opera-api.com
+#0.0.0.0 submit-trn.osp.opera.software
+#0.0.0.0 ab-merchandise.opera-api.com
 0.0.0.0 cashback-api-production.operacdn.com
-0.0.0.0 merchandise.opera-api2.com
+#0.0.0.0 merchandise.opera-api2.com
 0.0.0.0 redir.opera.com
 0.0.0.0 pinboard.opera.com
-0.0.0.0 weather.opera-api2.com
+#0.0.0.0 weather.opera-api2.com
 0.0.0.0 redirect.opera.com
 0.0.0.0 redirect.geo.opera.com
 0.0.0.0 sg-redirect.opera.com
-0.0.0.0 singa.lb.opera.technology
+##0.0.0.0 singa.lb.opera.technology
 0.0.0.0 exchange.opera.com
-0.0.0.0 siteicon.opera-api2.com
+#0.0.0.0 siteicon.opera-api2.com
 0.0.0.0 ofa-r-sub.osp.opera.software
 0.0.0.0 files.myopera.com
-0.0.0.0 sitesuggestion.opera-api2.com
+#0.0.0.0 sitesuggestion.opera-api2.com
 0.0.0.0 global-4-lvs-odra.opera-mini.net
-0.0.0.0 siteicon.opera-api.com
+#0.0.0.0 siteicon.opera-api.com
 0.0.0.0 mcp.operacdn.com
-0.0.0.0 mcp.opera-api.com
-0.0.0.0 mcp.opera-api2.com
-0.0.0.0 pns-sdk.opera-api.com
+#0.0.0.0 mcp.opera-api.com
+#0.0.0.0 mcp.opera-api2.com
+#0.0.0.0 pns-sdk.opera-api.com
 0.0.0.0 sitecheck.geo.opera.com
 0.0.0.0 sd-images.operacdn.com
 0.0.0.0 speeddials.opera.com
 0.0.0.0 autoupdate.geo.opera.com
-0.0.0.0 merchandise.opera-api.com
+#0.0.0.0 merchandise.opera-api.com
 0.0.0.0 af.opera.com
 0.0.0.0 crashstats-collector.opera.com
-0.0.0.0 osp.opera.software
-0.0.0.0 ofa-b-sub.osp.opera.software
-0.0.0.0 ofa-2-sub.osp.opera.software
-0.0.0.0 pns-sdk.opera-api2.com
+#0.0.0.0 osp.opera.software
+#0.0.0.0 ofa-b-sub.osp.opera.software
+#0.0.0.0 ofa-2-sub.osp.opera.software
+#0.0.0.0 pns-sdk.opera-api2.com
 0.0.0.0 thumbnails2.opera.com
 0.0.0.0 xml.opera.com
 0.0.0.0 crashstats-collector.opera.com
