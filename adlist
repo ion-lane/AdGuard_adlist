@@ -137,20 +137,24 @@
 0.0.0.0 api.browser.yandex.net
 
 # realme phone
-0.0.0.0 omes-sec.heytapmobile.com
-0.0.0.0 eap-log-sg.allawnos.com
-0.0.0.0 sau-server-sg.allawnos.com
-0.0.0.0 datacollector-dre.dt.hicloud.com
-0.0.0.0 connect-dre.hispace.hicloud.com
-0.0.0.0 obus-sg.dc.heytapmobile.com
-0.0.0.0 obus-dc20123-sg.heytapmobile.com
-0.0.0.0 mdp-appconf-ru.heytapdl.com
-0.0.0.0 mdp-appconf-sg.heytapdl.com
-0.0.0.0 hicloud.com
-0.0.0.0 dt.hicloud.com
-0.0.0.0 datacollector-drru.dt.hicloud.com
-0.0.0.0 httpdns-push.heytapmobile.com
-0.0.0.0 dc-conf-sg.heytapmobile.com
+||heytapmobile.com^
+||allawnos.com^
+||hicloud.com^
+||heytapdl.com^
+#0.0.0.0 omes-sec.heytapmobile.com
+#0.0.0.0 eap-log-sg.allawnos.com
+#0.0.0.0 sau-server-sg.allawnos.com
+#0.0.0.0 datacollector-dre.dt.hicloud.com
+#0.0.0.0 connect-dre.hispace.hicloud.com
+#0.0.0.0 obus-sg.dc.heytapmobile.com
+#0.0.0.0 obus-dc20123-sg.heytapmobile.com
+#0.0.0.0 mdp-appconf-ru.heytapdl.com
+#0.0.0.0 mdp-appconf-sg.heytapdl.com
+#0.0.0.0 hicloud.com
+#0.0.0.0 dt.hicloud.com
+#0.0.0.0 datacollector-drru.dt.hicloud.com
+#0.0.0.0 httpdns-push.heytapmobile.com
+#0.0.0.0 dc-conf-sg.heytapmobile.com
 
 # lenovo
 0.0.0.0 adbtips.lenovo.com
