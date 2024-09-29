@@ -58,6 +58,7 @@
 
 # Google services
 ||*mtalk.google.com^
+||google-analitycs.ru^
 0.0.0.0 clienttracing-pa.googleapis.com
 0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 www.googleadservices.com
@@ -82,7 +83,7 @@
 0.0.0.0 dns.google
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 locationhistory-pa.googleapis.com
-0.0.0.0 google-analitycs.ru
+#0.0.0.0 google-analitycs.ru
 0.0.0.0 connectivitycheck.android.com
 0.0.0.0 remoteprovisioning.googleapis.com
 
