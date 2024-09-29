@@ -180,14 +180,17 @@
 0.0.0.0 self.events.data.microsoft.com
 
 # sentry
-0.0.0.0 o155150.ingest.sentry.io
-0.0.0.0 o418887.ingest.sentry.io
-0.0.0.0 o76327.ingest.sentry.io
-0.0.0.0 o1326854.ingest.sentry.io
-0.0.0.0 o519161.ingest.sentry.io
-0.0.0.0 o1069899.ingest.sentry.io
-0.0.0.0 browser.sentry-cdn.com
-0.0.0.0 app.getsentry.com
+||sentry.io^
+||getsentry.com^
+||sentry-cdn.com^
+#0.0.0.0 o155150.ingest.sentry.io
+#0.0.0.0 o418887.ingest.sentry.io
+#0.0.0.0 o76327.ingest.sentry.io
+#0.0.0.0 o1326854.ingest.sentry.io
+#0.0.0.0 o519161.ingest.sentry.io
+#0.0.0.0 o1069899.ingest.sentry.io
+#0.0.0.0 browser.sentry-cdn.com
+#0.0.0.0 app.getsentry.com
 0.0.0.0 sentry.xn--80ajbekothchmme5j.xn--p1ai
 0.0.0.0 sentry-api.sberdevices.ru
 0.0.0.0 sentry.ispsystem.net
@@ -196,28 +199,32 @@
 0.0.0.0 sentry-tech.cdek.ru
 
 # dbankcloud
-0.0.0.0 connect-dre.dbankcloud.cn
-0.0.0.0 connect-drcn.dbankcloud.cn
-0.0.0.0 web-drru.hispace.dbankcloud.com
-0.0.0.0 grs.dbankcloud.cn
-0.0.0.0 grs.dbankcloud.com
-0.0.0.0 connect-drru.dbankcloud.cn
+||dbankcloud.cn^
+||dbankcloud.com^
+#0.0.0.0 connect-dre.dbankcloud.cn
+#0.0.0.0 connect-drcn.dbankcloud.cn
+#0.0.0.0 web-drru.hispace.dbankcloud.com
+#0.0.0.0 grs.dbankcloud.cn
+#0.0.0.0 grs.dbankcloud.com
+#0.0.0.0 connect-drru.dbankcloud.cn
 
 # appsflyersdk
-0.0.0.0 launches.appsflyersdk.com
-0.0.0.0 cdn-settings.appsflyersdk.com
-0.0.0.0 w8nbds-cdn-settings.appsflyersdk.com
-0.0.0.0 inapps.appsflyersdk.com
-0.0.0.0 rf64to-cdn-settings.appsflyersdk.com
+||appsflyersdk.com^
+#0.0.0.0 launches.appsflyersdk.com
+#0.0.0.0 cdn-settings.appsflyersdk.com
+#0.0.0.0 w8nbds-cdn-settings.appsflyersdk.com
+#0.0.0.0 inapps.appsflyersdk.com
+#0.0.0.0 rf64to-cdn-settings.appsflyersdk.com
 
 # amplitude
-0.0.0.0 amplitude.com
-0.0.0.0 api.amplitude.com
-0.0.0.0 api2.amplitude.com
-0.0.0.0 cdn.amplitude.com
-0.0.0.0 info.amplitude.com
-0.0.0.0 regionconfig.amplitude.com
-0.0.0.0 static.amplitude.com
+||amplitude.com^
+#0.0.0.0 amplitude.com
+#0.0.0.0 api.amplitude.com
+#0.0.0.0 api2.amplitude.com
+#0.0.0.0 cdn.amplitude.com
+#0.0.0.0 info.amplitude.com
+#0.0.0.0 regionconfig.amplitude.com
+#0.0.0.0 static.amplitude.com
 
 # iplogger
 0.0.0.0 iplogger.org
