@@ -1,5 +1,5 @@
-# Additional domains for Pi-hole
-# Date: 30 Sep 2024^
+# Additional domains for AdGuard Home
+# Date: 30 Sep 2024
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
@@ -68,6 +68,8 @@
 
 # Yandex services
 ||yandex.net^
+||yandex.ru^
+||yandex.com^
 
 # realme phone^
 ||heytapmobile.com^
@@ -77,14 +79,13 @@
 
 # lenovo
 ||adbtips.lenovo.com^
-||osfsr.lenovomm.com^
-||uefsr.lenovomm.com^
-||config.fsr.lenovomm.com^
 ||epg.vgs.lenovo.com.cn^
 ||ota.lenovo.com^
 ||www.lenovo.com^
 ||s.lenovo.com^
 ||openapi.lenovo.com^
+||lenovomm.cn^
+||lenovomm.com.cn^
 
 # microsoft
 ||officeclient.microsoft.com^
@@ -154,7 +155,6 @@
 ||www.drjaqsssfxpytk.com^
 ||www.yqjwytbpx.com^
 ||sendsay.ru^
-||image.sendsay.ru^
 ||www.statcounter.com^
 ||bpb.ukyuh.tech^
 ||socfishing.com^
@@ -247,10 +247,8 @@
 ||bjiuck.com^
 ||top-fwz1.mail.ru^
 ||lovikupon.ru^
-||vladivostok.lovikupon.ru^
 ||adsmetadata.mobileadexchange.net^
 ||betsonsport.ru^
-||www.betsonsport.ru^
 ||cloud2.mikrotik.com^
 ||forbidden.podryad.tv^
 ||ads.sber.ru^
@@ -268,14 +266,9 @@
 ||adv.mail.ru^
 ||stat.adlook.me^
 ||ads.adlook.me^
-||ssp.adriver.ru^
-||ad.adriver.ru^
-||auth.split.io^
-||events.split.io^
-||sdk.split.io^
-||ru.ekatox.com^
-||litemsg.ekatox.com^
-||liteapi.ekatox.com^
+||adriver.ru^
+||split.io^
+||ekatox.com^
 ||px.adhigh.net^
 ||ads.betweendigital.com^
 ||mincifry-cert.vk.com^
@@ -299,13 +292,8 @@
 ||mrobot.mega-net.ru^
 ||static-fed.dfaklj.tech^
 ||al-array.com^
-||api.al-array.com^
-||api.polaris.al-array.com^
-||polaris.al-array.com^
 ||s.click.aliexpress.com^
 ||altitude-arena.com^
-||ads.altitude-arena.com^
-||g-api.ekatox.com^
 ||advombat.ru^
 ||adwise.ru^
 ||auditorius.ru^
@@ -345,10 +333,9 @@
 ||yadro.ru^
 ||ws.audioscrobbler.com^
 ||graph.facebook.com^
-^
-# regexp^
+
+# regexp
 ||killtarget.biz^
-||dbankcloud.cn^
 ||adserv.ai^
 ||moviead55.ru^
 ||betx.su^
@@ -365,8 +352,6 @@
 ||adlabs.ru^
 ||adstreamer.ru^
 ||hshh.org^
-||lenovomm.cn^
-||lenovomm.com.cn^
 ||nllapps.com^
 ||dadata.ru^
 ||akadns.net^
