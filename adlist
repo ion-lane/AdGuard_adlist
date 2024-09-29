@@ -11,22 +11,19 @@
 ||opera.software^
 ||opera.technology^
 ||op.mykonf.com^
-||submit.geo.opera.com^
+||geo.opera.com^
 ||cashback-api-production.operacdn.com^
 ||redir.opera.com^
 ||pinboard.opera.com^
 ||redirect.opera.com^
-||redirect.geo.opera.com^
 ||sg-redirect.opera.com^
 ||exchange.opera.com^
 ||ofa-r-sub.osp.opera.software^
 ||files.myopera.com^
 ||global-4-lvs-odra.opera-mini.net^
 ||mcp.operacdn.com^
-||sitecheck.geo.opera.com^
 ||sd-images.operacdn.com^
 ||speeddials.opera.com^
-||autoupdate.geo.opera.com^
 ||af.opera.com^
 ||crashstats-collector.opera.com^
 ||thumbnails2.opera.com^
@@ -45,9 +42,7 @@
 ||nearbysharing-pa.googleapis.com^
 ||pagead2.googlesyndication.com^
 ||google-analytics.com^
-||www.google-analytics.com^
 ||googletagmanager.com^
-||www.googletagmanager.com^
 ||myphonenumbers-pa.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 ||userlocation.googleapis.com^
@@ -76,6 +71,7 @@
 ||allawnos.com^
 ||hicloud.com^
 ||heytapdl.com^
+||allawntech.com^
 
 # lenovo
 ||adbtips.lenovo.com^
@@ -141,13 +137,8 @@
 # others
 ||cdn.polyfill.io^
 ||antibotcloud.com^
-||static.smi2.net^
-||cdnjs.smi2.ru^
 ||smi2.net^
 ||smi2.ru^
-||static6.smi2.net^
-||static7.smi2.net^
-||static1.smi2.net^
 ||ssp.rambler.ru^
 ||tracking.retailrocket.ru^
 ||cdn.retailrocket.ru^
@@ -185,7 +176,6 @@
 ||r.mail.ru^
 ||oneclient.sfx.ms^
 ||bs-dante.ru^
-||adviser.bs-dante.ru^
 ||antiterroristqueenjolly.com^
 ||absorbinginject.com^
 ||advertising.twitter.com^
@@ -305,7 +295,6 @@
 ||count.rbc.ru^
 ||counter.24log.ru^
 ||counter.rambler.ru^
-||counter.yadro.ru^
 ||counting.kmindex.ru^
 ||datacentric.ru^
 ||dumedia.ru^
@@ -333,13 +322,10 @@
 ||yadro.ru^
 ||ws.audioscrobbler.com^
 ||graph.facebook.com^
-
-# regexp
 ||killtarget.biz^
 ||adserv.ai^
 ||moviead55.ru^
 ||betx.su^
-||allawntech.com^
 ||userx.pro^
 ||audioscrobbler.com^
 ||revenuecat.com^
