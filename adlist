@@ -1,11 +1,11 @@
-# Additional domains for Pi-hole^
+# Additional domains for Pi-hole
 # Date: 30 Sep 2024^
-^
-# TP-link IP camera^
+
+# TP-link IP camera
 ||tplinkcloud.com.cn^
 ||tplinkcloud.com^
-^
-# Opera browser^
+
+# Opera browser
 ||opera-api.com^
 ||opera-api2.com^
 ||opera.software^
@@ -35,8 +35,8 @@
 ||sitecheck.opera.com^
 ||thumbnails.opera.com^
 ||subscriptions.opera.com^
-^
-# Google services^
+
+# Google services
 ||*mtalk.google.com^
 ||google-analitycs.ru^
 ||clienttracing-pa.googleapis.com^
@@ -65,63 +65,17 @@
 ||locationhistory-pa.googleapis.com^
 ||connectivitycheck.android.com^
 ||remoteprovisioning.googleapis.com^
-^
-# Yandex services^
-||api.lbs.yandex.net^
-||sba.yandex.net^
-||searchlib.yandex.net^
-||mobileproxy.passport.yandex.net^
-||rosenberg.appmetrica.yandex.net^
-||report.appmetrica.yandex.net^
-||adfox.yandex.ru^
-||mc.yandex.net^
-||an.yandex.ru^
-||api.browser.yandex.ru^
-||tools.messenger.yandex.net^
-||web-metrica.yandex.ru^
-||captcha-api.yandex.ru^
-||static-mon.yandex.net^
-||avatars.mds.yandex.net^
-||resize.yandex.net^
-||uptime-info.yandex.ru^
-||http-check-headers.yandex.ru^
-||push.yandex.ru^
-||bs.yandex.ru^
-||static.yandex.net^
-||startup-balancer.stable.qloud-b.yandex.net^
-||awaps.yandex.ru^
-||amc.yandex.ru^
-||adfstat.yandex.ru^
-||yabs.yandex.ru^
-||sso.dzen.ru^
-||sso.passport.yandex.ru^
-||yandex.ru^
-||m.yandex.ru^
-||adsdk.yandex.ru^
-||advertising.yandex.ru^
-||appmetrica.yandex.ru^
-||appmetrika.yandex.ru^
-||awsync.yandex.ru^
-||bs-meta.yandex.ru^
-||bs-metadsp.yandex.ru^
-||analytics.market.yandex.ru^
-||mc.yandex.ru^
-||metric.yandex.ru^
-||metrika.yandex.ru^
-||log.strm.yandex.ru^
-||uaas.yandex.ru^
-||zen-test.yandex.ru^
-||startup-mobile.ap.yandex-net.ru^
-||dr.yandex.net^
-||api.browser.yandex.net^
-^
+
+# Yandex services
+||yandex.net^
+
 # realme phone^
 ||heytapmobile.com^
 ||allawnos.com^
 ||hicloud.com^
 ||heytapdl.com^
-^
-# lenovo^
+
+# lenovo
 ||adbtips.lenovo.com^
 ||osfsr.lenovomm.com^
 ||uefsr.lenovomm.com^
@@ -131,8 +85,8 @@
 ||www.lenovo.com^
 ||s.lenovo.com^
 ||openapi.lenovo.com^
-^
-# microsoft^
+
+# microsoft
 ||officeclient.microsoft.com^
 ||in.appcenter.ms^
 ||mobilecenter.azureedge.net^
@@ -143,8 +97,8 @@
 ||amazonclix.com^
 ||nexusrules.officeapps.live.com^
 ||self.events.data.microsoft.com^
-^
-# sentry^
+
+# sentry
 ||sentry.io^
 ||getsentry.com^
 ||sentry-cdn.com^
@@ -154,18 +108,18 @@
 ||sentry-relay.beeline.ru^
 ||sentry.srv.habr.com^
 ||sentry-tech.cdek.ru^
-^
-# dbankcloud^
+
+# dbankcloud
 ||dbankcloud.cn^
 ||dbankcloud.com^
-^
-# appsflyersdk^
+
+# appsflyersdk
 ||appsflyersdk.com^
-^
-# amplitude^
+
+# amplitude
 ||amplitude.com^
-^
-# iplogger^
+
+# iplogger
 ||iplogger.org^
 ||2no.co^
 ||iplogger.com^
@@ -177,13 +131,13 @@
 ||ipgraber.ru^
 ||iplis.ru^
 ||02ip.ru^
-^
-# 2gis^
+
+# 2gis
 ||analytics.2gis.com^
 ||stat.api.2gis.ru^
 ||advisor.api.2gis.ru^
-^
-# others^
+
+# others
 ||cdn.polyfill.io^
 ||antibotcloud.com^
 ||static.smi2.net^
