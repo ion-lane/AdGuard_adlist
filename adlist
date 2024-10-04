@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 30 Sep 2024
+# Date: 04 Oct 2024
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
@@ -54,7 +54,6 @@
 ||geller-pa.googleapis.com^
 ||calendarpushsubscription-pa.googleapis.com^
 ||footprints-pa.googleapis.com^
-||storage.googleapis.com^
 ||dns.google^
 ||firebase-settings.crashlytics.com^
 ||locationhistory-pa.googleapis.com^
