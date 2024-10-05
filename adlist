@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 04 Oct 2024
+# Date: 05 Oct 2024
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
@@ -171,7 +171,6 @@
 ||analytics.dns-shop.ru^
 ||5922505.fls.doubleclick.net^
 ||api.revenuecat.com^
-||mobile-api.ru^
 ||web-korobka.ru^
 ||r.mail.ru^
 ||oneclient.sfx.ms^
