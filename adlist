@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 05 Oct 2024
+# Date: 07 Oct 2024
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
@@ -7,6 +7,8 @@
 
 # Opera browser
 @@||translation.opera-api2.com^$important
+||feednews.com^
+||op-mobile.opera.com^
 ||opera-api.com^
 ||opera-api2.com^
 ||opera.software^
