@@ -66,6 +66,7 @@
 # Yandex services
 @@||api-maps.yandex.ru^$important
 @@||core-renderer-tiles.maps.yandex.net^$important
+@@|mirror.yandex.ru^$important
 ||yandex.net^
 ||yandex.ru^
 ||yandex.com^
