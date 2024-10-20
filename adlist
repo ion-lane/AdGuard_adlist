@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 19 Oct 2024
+# Date: 20 Oct 2024
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
@@ -70,6 +70,7 @@
 ||yandex.net^
 ||yandex.ru^
 ||yandex.com^
+||yandex.st^
 
 # realme phone^
 ||heytapmobile.com^
