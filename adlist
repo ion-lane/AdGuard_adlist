@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 22 Oct 2024
+# Date: 25 Oct 2024
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
@@ -356,3 +356,6 @@
 ||odkl.ru^
 ||intercom.com^
 ||intercom.io^
+||ads-api.tiktok.com^
+||udc.yahoo.com^
+||udcm.yahoo.com^
