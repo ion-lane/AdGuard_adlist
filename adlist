@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 26 Oct 2024
+# Date: 04 Nov 2024
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
@@ -67,6 +67,7 @@
 @@||api-maps.yandex.ru^$important
 @@||core-renderer-tiles.maps.yandex.net^$important
 @@|mirror.yandex.ru^$important
+@@||maps.yandex.net^$important
 ||yandex.net^
 ||yandex.ru^
 ||yandex.com^
