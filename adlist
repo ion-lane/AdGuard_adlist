@@ -64,10 +64,9 @@
 ||remoteprovisioning.googleapis.com^
 
 # Yandex services
-@@||api-maps.yandex.ru^$important
+@@||maps.yandex.ru^$important
 @@||core-renderer-tiles.maps.yandex.net^$important
 @@|mirror.yandex.ru^$important
-@@||maps.yandex.net^$important
 ||yandex.net^
 ||yandex.ru^
 ||yandex.com^
