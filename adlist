@@ -63,6 +63,7 @@
 ||locationhistory-pa.googleapis.com^
 ||connectivitycheck.android.com^
 ||remoteprovisioning.googleapis.com^
+||android.googleapis.com^
 
 # Yandex services
 @@||api-maps.yandex.ru^$important
