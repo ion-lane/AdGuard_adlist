@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 14 Nov 2024
+# Date: 19 Nov 2024
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
@@ -80,6 +80,9 @@
 ||hicloud.com^
 ||heytapdl.com^
 ||allawntech.com^
+||dbankcloud.cn^
+||dbankcloud.com^
+||dbankcloud.ru^
 
 # lenovo
 ||adbtips.lenovo.com^
@@ -113,10 +116,6 @@
 ||sentry-relay.beeline.ru^
 ||sentry.srv.habr.com^
 ||sentry-tech.cdek.ru^
-
-# dbankcloud
-||dbankcloud.cn^
-||dbankcloud.com^
 
 # appsflyersdk
 ||appsflyersdk.com^
