@@ -2,7 +2,7 @@
 # Date: 07 Dec 2024
 
 # Honor
-||trs-drru.push.hihonorcloud.com^
+#||trs-drru.push.hihonorcloud.com^
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
@@ -42,6 +42,7 @@
 ||subscriptions.opera.com^
 
 # Google services
+||findmydevice-pa.googleapis.com^
 ||ogads-pa.googleapis.com^
 ||google-analitycs.ru^
 ||clienttracing-pa.googleapis.com^
