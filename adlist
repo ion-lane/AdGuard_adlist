@@ -2,7 +2,13 @@
 # Date: 07 Dec 2024
 
 # Honor
-#||trs-drru.push.hihonorcloud.com^
+||metrics-dre.dt.hihonorcloud.com^
+||metrics-drru.dt.hihonorcloud.com^
+||remoteconfig-dre.platform.hihonorcloud.com^
+||configserver-dra.platform.hihonorcloud.com^
+||configserver.platform.hihonorcloud.com^
+||connectivitycheck-backup.platform.hihonorcloud.com^
+||connectivitycheck.platform.hihonorcloud.com^
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
