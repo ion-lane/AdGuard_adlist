@@ -10,6 +10,8 @@
 
 # Opera browser
 @@||translation.opera-api2.com^$important
+@@||blocklists.operacdn.com^$important
+@@||siteicon.opera-api.com^$important
 ||feednews.com^
 ||op-mobile.opera.com^
 ||opera-api.com^
