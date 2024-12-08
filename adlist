@@ -1,14 +1,8 @@
 # Additional domains for AdGuard Home
-# Date: 07 Dec 2024
+# Date: 08 Dec 2024
 
 # Honor
-||metrics-dre.dt.hihonorcloud.com^
-||metrics-drru.dt.hihonorcloud.com^
-||remoteconfig-dre.platform.hihonorcloud.com^
-||configserver-dra.platform.hihonorcloud.com^
-||configserver.platform.hihonorcloud.com^
-||connectivitycheck-backup.platform.hihonorcloud.com^
-||connectivitycheck.platform.hihonorcloud.com^
+||trs-drru.push.hihonorcloud.com^
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
