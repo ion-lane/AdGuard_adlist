@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 23 Dec 2024
+# Date: 16 Jan 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -385,3 +385,4 @@
 ||mindbox.ru^
 ||calltouch.ru^
 ||rustore.ru^
+||ads.vk.com^
