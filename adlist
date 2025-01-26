@@ -13,6 +13,8 @@
 @@||blocklists.operacdn.com^$important
 @@||siteicon.opera-api.com^$important
 @@||siteicon.opera-api2.com^$important
+@@||sitesuggestion.opera-api2.com^$important
+@@||sitecheck.opera.com^$important
 ||feednews.com^
 ||op-mobile.opera.com^
 ||opera-api.com^
