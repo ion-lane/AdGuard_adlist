@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 25 Jan 2025
+# Date: 26 Jan 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -12,6 +12,7 @@
 @@||translation.opera-api2.com^$important
 @@||blocklists.operacdn.com^$important
 @@||siteicon.opera-api.com^$important
+@@||siteicon.opera-api2.com^$important
 ||feednews.com^
 ||op-mobile.opera.com^
 ||opera-api.com^
@@ -34,12 +35,10 @@
 ||speeddials.opera.com^
 ||af.opera.com^
 ||crashstats-collector.opera.com^
-||thumbnails2.opera.com^
-||xml.opera.com^
 ||crashstats-collector.opera.com^
-||sitecheck.opera.com^
-||thumbnails.opera.com^
 ||subscriptions.opera.com^
+||auth-statics.operacdn.com^
+||auth.opera.com^
 
 # Google services
 ||ogads-pa.clients6.google.com^
