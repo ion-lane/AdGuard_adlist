@@ -72,15 +72,15 @@
 ||remoteprovisioning.googleapis.com^
 
 # Yandex services
-@@||api-maps.yandex.ru^$important
-@@||maps.yandex.ru^$important
-@@||maps.yandex.net^$important
-@@||mirror.yandex.ru^$important
-@@||forms.yandex.ru^$important
-||yandex.net^
-||yandex.ru^
-||yandex.com^
-||yandex.st^
+# @@||api-maps.yandex.ru^$important
+# @@||maps.yandex.ru^$important
+# @@||maps.yandex.net^$important
+# @@||mirror.yandex.ru^$important
+# @@||forms.yandex.ru^$important
+# ||yandex.net^
+# ||yandex.ru^
+# ||yandex.com^
+# ||yandex.st^
 
 # realme phone^
 ||heytapmobile.com^
