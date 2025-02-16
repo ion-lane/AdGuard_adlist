@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 14 Feb 2025
+# Date: 16 Feb 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -391,3 +391,4 @@
 ||sdk-api.apptracer.ru^
 ||metrics.alfabank.ru^
 ||mobsocks.yy.duowan.com^
+||i.4pda.ws^
