@@ -16,3 +16,4 @@
 ||2.android.pool.ntp.org^$dnsrewrite=NOERROR;A;ru.pool.ntp.org
 ||2.debian.pool.ntp.org^$dnsrewrite=NOERROR;A;ru.pool.ntp.org
 ||0.debian.pool.ntp.org^$dnsrewrite=NOERROR;A;ru.pool.ntp.org
+||time.tinkoff.ru^$dnsrewrite=NOERROR;A;ru.pool.ntp.org
