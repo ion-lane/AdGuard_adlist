@@ -1,0 +1,18 @@
+# Rewrites ntp to router for AdGuard Home
+# Date: 25 May 2025
+
+||time.apple.com^$dnsrewrite=NOERROR;A;10.0.0.1
+||time.cloudflare.com^$dnsrewrite=NOERROR;A;10.0.0.1
+||time.g.aaplimg.com^$dnsrewrite=NOERROR;A;10.0.0.1
+||time.google.com^$dnsrewrite=NOERROR;A;10.0.0.1
+||time.nist.gov^$dnsrewrite=NOERROR;A;10.0.0.1
+||ntp1.glb.nist.gov^$dnsrewrite=NOERROR;A;10.0.0.1
+||time-a.nist.gov^$dnsrewrite=NOERROR;A;10.0.0.1
+||time-a-g.nist.gov^$dnsrewrite=NOERROR;A;10.0.0.1
+||time-b.nist.gov^$dnsrewrite=NOERROR;A;10.0.0.1
+||time-b-g.nist.gov^$dnsrewrite=NOERROR;A;10.0.0.1
+||ntp.ecslb.sjtu.edu.cn^$dnsrewrite=NOERROR;A;10.0.0.1
+||time.g.aaplimg.com^$dnsrewrite=NOERROR;A;10.0.0.1
+||2.android.pool.ntp.org^$dnsrewrite=NOERROR;A;10.0.0.1
+||2.debian.pool.ntp.org^$dnsrewrite=NOERROR;A;10.0.0.1
+||0.debian.pool.ntp.org^$dnsrewrite=NOERROR;A;10.0.0.1
