@@ -11,6 +11,7 @@
 ||time-a-g.nist.gov^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
 ||time-b.nist.gov^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
 ||time-b-g.nist.gov^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||ntp.sjtu.edu.cn^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
 ||ntp.ecslb.sjtu.edu.cn^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
 ||time.g.aaplimg.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
 ||2.android.pool.ntp.org^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
