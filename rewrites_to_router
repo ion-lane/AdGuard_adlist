@@ -11,6 +11,7 @@
 ||time-a-g.nist.gov^$dnsrewrite=NOERROR;A;10.0.0.1
 ||time-b.nist.gov^$dnsrewrite=NOERROR;A;10.0.0.1
 ||time-b-g.nist.gov^$dnsrewrite=NOERROR;A;10.0.0.1
+||ntp.sjtu.edu.cn^$dnsrewrite=NOERROR;A;10.0.0.1
 ||ntp.ecslb.sjtu.edu.cn^$dnsrewrite=NOERROR;A;10.0.0.1
 ||time.g.aaplimg.com^$dnsrewrite=NOERROR;A;10.0.0.1
 ||2.android.pool.ntp.org^$dnsrewrite=NOERROR;A;10.0.0.1
