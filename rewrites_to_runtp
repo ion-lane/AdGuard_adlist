@@ -19,3 +19,4 @@
 ||0.debian.pool.ntp.org^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
 ||time.tinkoff.ru^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
 ||pool.ntp.org^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time.android.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
