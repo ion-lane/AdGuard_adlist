@@ -19,3 +19,4 @@
 ||0.debian.pool.ntp.org^$dnsrewrite=NOERROR;A;10.0.0.1
 ||time.tinkoff.ru^$dnsrewrite=NOERROR;A;10.0.0.1
 ||pool.ntp.org^$dnsrewrite=NOERROR;A;10.0.0.1
+||time.android.com^$dnsrewrite=NOERROR;A;10.0.0.1
