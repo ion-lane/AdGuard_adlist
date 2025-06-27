@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 05 Jun 2025
+# Date: 27 Jun 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -84,6 +84,13 @@
 ||yandexmetrica.com^
 ||startup.mobile.yandex.net^
 ||mc.yango.com^
+
+# Mail.ru services
+||e.mail.ru^
+||r.mail.ru^
+||bar.love.mail.ru^
+||top-fwz1.mail.ru^
+||adv.mail.ru^
 
 # realme phone^
 ||heytapmobile.com^
@@ -203,7 +210,6 @@
 ||5922505.fls.doubleclick.net^
 ||api.revenuecat.com^
 ||web-korobka.ru^
-||r.mail.ru^
 ||oneclient.sfx.ms^
 ||bs-dante.ru^
 ||antiterroristqueenjolly.com^
@@ -247,7 +253,6 @@
 ||geo.tildacdn.com^
 ||trackingapi.trendemon.com^
 ||push-row.zui.com^
-||bar.love.mail.ru^
 ||distributionrealmoth.com^
 ||effectivecreativeformat.com^
 ||linksforfree.com^
@@ -265,7 +270,6 @@
 ||cdn.advg.agency^
 ||i.dynspt.com^
 ||bjiuck.com^
-||top-fwz1.mail.ru^
 ||lovikupon.ru^
 ||adsmetadata.mobileadexchange.net^
 ||betsonsport.ru^
@@ -283,7 +287,6 @@
 ||dsp.gonet-ads.com^
 ||api-ui.gonet-ads.com^
 ||rhqsy4.moe.video^
-||adv.mail.ru^
 ||stat.adlook.me^
 ||ads.adlook.me^
 ||adriver.ru^
