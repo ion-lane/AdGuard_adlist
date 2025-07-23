@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 11 Jul 2025
+# Date: 23 Jul 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -402,3 +402,4 @@
 ||i.4pda.ws^
 ||abtest-api.ntlg.tech^
 ||tn-cnv.mckx.ru^
+||gnezdo.ru^
