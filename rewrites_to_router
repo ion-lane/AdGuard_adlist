@@ -1,5 +1,5 @@
 # Rewrites ntp to router for AdGuard Home
-# Date: 25 May 2025
+# Date: 08 Aug 2025
 
 ||time.apple.com^$dnsrewrite=NOERROR;A;10.0.0.1
 ||time.cloudflare.com^$dnsrewrite=NOERROR;A;10.0.0.1
@@ -20,3 +20,4 @@
 ||time.tinkoff.ru^$dnsrewrite=NOERROR;A;10.0.0.1
 ||pool.ntp.org^$dnsrewrite=NOERROR;A;10.0.0.1
 ||time.android.com^$dnsrewrite=NOERROR;A;10.0.0.1
+||time.windows.com^$dnsrewrite=NOERROR;A;10.0.0.1
