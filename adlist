@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 12 Aug 2025
+# Date: 17 Aug 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -84,6 +84,12 @@
 ||yandexmetrica.com^
 ||startup.mobile.yandex.net^
 ||mc.yango.com^
+||ext-strm-ruvld01rtk-01.strm.yandex.net^
+||ext-strm-ruvld02rtk-01.strm.yandex.net^
+||dr.yandex.net^
+||strm.yandex.ru^
+||strm-mar-123.strm.yandex.net^
+
 
 # Mail.ru services
 ||e.mail.ru^
@@ -145,6 +151,14 @@
 ||sentry.hh.ru^
 ||sentry-prod.ntlg.tech^
 ||sentry.myshows.me^
+||sentry-saas.rambler-co.ru^
+||sentry.patrianna.com^
+||sentry.timeweb.cloud^
+||sentry.apteka25.ru^
+||sentry.megapteka.ru^
+||sentry.voyeur-house.tv^
+||sentry.domyland.dev^
+||sentry-public.stripchat.com^
 
 # appsflyersdk
 ||appsflyersdk.com^
