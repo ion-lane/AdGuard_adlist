@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 22 Aug 2025
+# Date: 23 Aug 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -78,7 +78,7 @@
 # @@||mirror.yandex.ru^$important
 # @@||forms.yandex.ru^$important
 # ||yandex.net^
-# ||yandex.ru^
+|yandex.ru^
 # ||yandex.com^
 # ||yandex.st^
 ||yandexmetrica.com^
@@ -426,3 +426,4 @@
 ||angelfire.lycos.com^
 ||tripplefury.com^
 ||pixel.adlooxtracking.ru^
+||wi-fi.ru^
