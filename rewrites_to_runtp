@@ -1,5 +1,5 @@
 # Rewrites ntp to runtp for AdGuard Home
-# Date: 08 Aug 2025
+# Date: 23 Aug 2025
 
 ||time.apple.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
 ||time.cloudflare.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
@@ -21,3 +21,4 @@
 ||pool.ntp.org^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
 ||time.android.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
 ||time.windows.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time.doppiocdn.net^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
