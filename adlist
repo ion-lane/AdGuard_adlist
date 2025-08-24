@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 23 Aug 2025
+# Date: 24 Aug 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -160,6 +160,7 @@
 ||sentry.domyland.dev^
 ||sentry-public.stripchat.com^
 ||receive-sentry.lmru.tech^
+||sentry.iiko.ru^
 
 # appsflyersdk
 ||appsflyersdk.com^
