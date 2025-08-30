@@ -38,10 +38,10 @@
 ||*.weather.com^$dnsrewrite=NOERROR;A;188.130.154.202
 
 # misc
-10.0.0.1 mikrotik
-10.0.0.5 vlc.arph.org
-130.255.77.28 ntc.party
-104.21.48.1 bt.t-ru.org
-104.21.48.1 bt2.t-ru.org
-104.21.48.1 bt3.t-ru.org
-104.21.48.1 bt4.t-ru.org
+||mikrotik^$dnsrewrite=NOERROR;A;10.0.0.1 
+||vlc.arph.org^$dnsrewrite=NOERROR;A;10.0.0.5
+||ntc.party^$dnsrewrite=NOERROR;A;130.255.77.28
+||bt.t-ru.org^$dnsrewrite=NOERROR;A;104.21.48.1
+||bt2.t-ru.org^$dnsrewrite=NOERROR;A;104.21.48.1
+||bt3.t-ru.org^$dnsrewrite=NOERROR;A;104.21.48.1
+||bt4.t-ru.org^$dnsrewrite=NOERROR;A;104.21.48.1
