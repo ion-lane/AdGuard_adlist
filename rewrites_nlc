@@ -1,0 +1,45 @@
+# Rewrites ntp to runtp for AdGuard Home
+# Date: 30 Aug 2025
+
+# ntp servers
+||time.apple.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time.cloudflare.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time.g.aaplimg.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time.google.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time.nist.gov^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||ntp1.glb.nist.gov^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time-a.nist.gov^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time-a-g.nist.gov^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time-b.nist.gov^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time-b-g.nist.gov^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||ntp.sjtu.edu.cn^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||ntp.ecslb.sjtu.edu.cn^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time.g.aaplimg.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||2.android.pool.ntp.org^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||2.debian.pool.ntp.org^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||0.debian.pool.ntp.org^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time.tinkoff.ru^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||pool.ntp.org^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time.android.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time.windows.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+||time.doppiocdn.net^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
+
+# dns servers
+||dns.google^$dnsrewrite=NOERROR;A;89.105.223.151
+||dns.msftncsi.com^$dnsrewrite=NOERROR;A;89.105.223.151
+||wikimedia-dns.org^$dnsrewrite=NOERROR;A;89.105.223.151
+||mozilla.cloudflare-dns.com^$dnsrewrite=NOERROR;A;89.105.223.151
+||dns.quad9.net^$dnsrewrite=NOERROR;A;89.105.223.151
+
+# sni proxy
+||wunderground.com^$dnsrewrite=NOERROR;A;188.130.154.202
+||*.wunderground.com^$dnsrewrite=NOERROR;A;188.130.154.202
+||weather.com^$dnsrewrite=NOERROR;A;188.130.154.202
+||*.weather.com^$dnsrewrite=NOERROR;A;188.130.154.202
+||chatgpt.com^$dnsrewrite=NOERROR;A;89.105.223.151
+||*.chatgpt.com^$dnsrewrite=NOERROR;A;89.105.223.151
+||cdn.oaistatic.com^$dnsrewrite=NOERROR;A;89.105.223.151
+
+# misc
+10.0.0.1 mikrotik
+130.255.77.28 ntc.party
