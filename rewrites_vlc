@@ -36,3 +36,12 @@
 ||*.wunderground.com^$dnsrewrite=NOERROR;A;188.130.154.202
 ||weather.com^$dnsrewrite=NOERROR;A;188.130.154.202
 ||*.weather.com^$dnsrewrite=NOERROR;A;188.130.154.202
+
+# misc
+10.0.0.1 mikrotik
+10.0.0.5 vlc.arph.org
+130.255.77.28 ntc.party
+104.21.48.1 bt.t-ru.org
+104.21.48.1 bt2.t-ru.org
+104.21.48.1 bt3.t-ru.org
+104.21.48.1 bt4.t-ru.org
