@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 13 Sep 2025
+# Date: 16 Sep 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -60,11 +60,7 @@
 ||chromesyncpasswords-pa.googleapis.com^
 ||phonedeviceverification-pa.googleapis.com^
 ||businesscalls.googleapis.com^
-||update.googleapis.com^
 ||xgapromomanager-pa.googleapis.com^
-||geller-pa.googleapis.com^
-||calendarpushsubscription-pa.googleapis.com^
-||footprints-pa.googleapis.com^
 ||firebase-settings.crashlytics.com^
 ||locationhistory-pa.googleapis.com^
 ||connectivitycheck.android.com^
