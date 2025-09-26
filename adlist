@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 16 Sep 2025
+# Date: 26 Sep 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -436,3 +436,5 @@
 ||iionads.com^
 ||tads.tbank.ru^
 ||ms-ads-image.t-static.ru^
+||rtbadserv.com^
+||p16-tiktok-ads-sg.tiktokcdn.com^
