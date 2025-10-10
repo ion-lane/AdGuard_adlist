@@ -451,7 +451,7 @@
 ||p16-tiktok-ads-sg.tiktokcdn.com^
 
 
-#https://raw.githubusercontent.com/KeepeRRR90/List-with-blocked-ad-telemetry-tracking/refs/heads/main/blacklist.txt
+# https://github.com/KeepeRRR90/List-with-blocked-ad-telemetry-tracking/blob/main/blacklist.txt
 ||adservice.google.*^
 ||stats.g.doubleclick.net^
 ||fls.doubleclick.net^
