@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 08 Oct 2025
+# Date: 10 Oct 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -468,34 +468,33 @@
 ||adwords.google.com^
 ||ads.googleusercontent.com^
 
-||*.adtech.*^
-||*.adnxs.com^
-||*.pubmatic.com^
-||*.sonobi.com^
-||*.adsafeprotected.com^
-||*.quantummetric.com^
-||*.taboola.*^
-||*.outbrain.com^
-||*.revcontent.net^
-||*.yieldmo.com^
-||*.appier.net^
-||*.smartadserver.com^
-||*.rubiconproject.com^
-||*.casalemedia.com^
-||*.indexexchange.com^
-||*.inmobi.com^
-||*.mobfox.com^
-||*.mobvista.com^
-||*.applovin.com^
-||*.chartboost.com^
-||*.vungle.com^
-||*.tapjoy.com^
-||*.startapp.com^
-||*.ironsrc.com^
-||*.fyber.com^
-||*.stickyadstv.com^
-||*.smaato.net^
-||*.mydas.mobi^
+||adtech.*^
+||adnxs.com^
+||pubmatic.com^
+||sonobi.com^
+||adsafeprotected.com^
+||quantummetric.com^
+||taboola.*^
+||outbrain.com^
+||revcontent.net^
+||yieldmo.com^
+||appier.net^
+||smartadserver.com^
+||rubiconproject.com^
+||casalemedia.com^
+||inmobi.com^
+||mobfox.com^
+||mobvista.com^
+||applovin.com^
+||chartboost.com^
+||vungle.com^
+||tapjoy.com^
+||startapp.com^
+||ironsrc.com^
+||fyber.com^
+||stickyadstv.com^
+||smaato.net^
+||mydas.mobi^
 ||telemetry.ea.com^
 ||events.ea.com^
 ||phar.teradata.com^
@@ -505,32 +504,24 @@
 ||criteo.net^
 ||adroll.com^
 
-||*.scorecardresearch.com^
-||*.bluekai.com^
-||*.turn.com^
-||*.mathtag.com^
-||*.rlcdn.com^
-||*.adform.net^
-||*.addthis.com^
-||*.quora.com^
-||*.licdn.com^
-||*.yastatic.net^
-||smi2.ru^
-||smi2.net^
-||mc.yandex.ru^
-||an.yandex.ru^
-||*.logrocket.io^
-||*.raygun.io^
-||*.raygun.com^
-||*.honeybadger.com^
-||*.rollbar.com^
-||*.sentry-cdn.com^
+||scorecardresearch.com^
+||bluekai.com^
+||turn.com^
+||mathtag.com^
+||rlcdn.com^
+||adform.net^
+||addthis.com^
+||quora.com^
+||licdn.com^
+
+||logrocket.io^
+||raygun.io^
+||raygun.com^
+||honeybadger.com^
+||rollbar.com^
+||sentry-cdn.com^
 
 ||hotjar.com^
-||logrocket.com^
-||raygun.io^
-||honeybadger.io^
-||rollbar.com^
 ||segment.io^
 ||mixpanel.com^
 ||appcues.com^
@@ -599,7 +590,6 @@
 ||srvtrck.com^
 ||redirectvoluum.com^
 ||hypertrack.com^
-||*.redirect*^
 ||clkmein.com^
 ||clkmon.com^
 ||direct-link.net^
@@ -619,7 +609,6 @@
 ||topadvert.ru^
 ||twenga.com^
 ||turbolister.com^
-||pixel.quora.com^
 ||snap.licdn.com^
 ||px.ads.linkedin.com^
 ||static.ads-twitter.com^
@@ -629,10 +618,8 @@
 ||*.raygun.*^
 
 ||indexexchange.com^
-||cdn.indexexchange.com^
 ||ads.rbm.adswizz.com^
 ||metrics.ctv.rakuten.co.jp^
-||telemetry.sdk.androidtv^
 ||statsigapi.net^
 ||tracking.kontext.tech^
 ||metrics.alfabank.ru^
@@ -646,8 +633,8 @@
 ||telemetry.amd.com^
 ||metrics.amd.com^
 ||analytics.avast.com^
-||*.tuya-analytics.com^
-||*.aquesa-analytics.com^
+||tuya-analytics.com^
+||aquesa-analytics.com^
 ||airdownload2.adobe.com^
 ||metricsforfriends.zachbarth.webfactional.com^
 ||gfe.nvidia.com^
@@ -662,7 +649,7 @@
 ||metrics.adobe.com^
 ||analytics.adobe.com^
 ||adobe.demdex.net^
-||*.omtrdc.net^
+||omtrdc.net^
 ||adobedc.demdex.net^
 
 # Блокировка только рекламных доменов Ubisoft:
@@ -674,26 +661,26 @@
 ||ads-api.media2025.net^
 ||event.streamlytics.net^
 ||cdn.adshell.net^
-||*.zippyads.com^
-||*.metricaapi.com^
-||*.deepmetrics.io^
+||zippyads.com^
+||metricaapi.com^
+||deepmetrics.io^
 
 # === Новые криптомайнеры и вредоносные скрипты ===
 ||miner2025.pro^
 ||webcoin.site^
 ||crypto-load.com^
-||*.cryptoloot.site^
+||cryptoloot.site^
 ||jscoinminer-new.com^
-||*.coinhive.ru^
+||coinhive.ru^
 ||jscoinminer.com^
 
 # === Подозрительные CDN и обходные домены ===
-||*.fastmetrics-cdn.com^
-||*.edgeapi.stream^
-||*.cdn-fastly.io^
-||*.cloudflare-secure.com^
-||*.fastly-ssl.net^
-||*.edgecastcdn.net^
+||fastmetrics-cdn.com^
+||edgeapi.stream^
+||cdn-fastly.io^
+||cloudflare-secure.com^
+||fastly-ssl.net^
+||edgecastcdn.net^
 ||sberbank-verification.ru^
 ||tinkoff-login.ru^
 ||gosuslugi-portal.ru^
@@ -708,13 +695,7 @@
 ||ozon-deals.ru^
 ||aliexpress-official.store^
 
-||ru.hlth.io.mi.com^
-||mitv.tracking.rus.miui.com^
-||sdkconfig.ad.intl.xiaomi.com^
-||sdkconfig.ad.rus.xiaomi.com^
-||log-upload-os.hismarttv.com^
 ||data.arris.com^
-||lgtvonline.lge.com^
 ||telemetry.openai.com^
 ||events.openai.com^
 ||data-anonymization.openai.com^
