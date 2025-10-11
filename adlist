@@ -75,11 +75,8 @@
 @@||maps.yandex.ru^$important
 @@||maps.yandex.net^$important
 @@||mirror.yandex.ru^$important
-# @@||forms.yandex.ru^$important
-# ||yandex.net^
+@@||yandex.ru^$domain=maps.yandex.ru|maps.yandex.net|api-maps.yandex.ru
 |yandex.ru^
-# ||yandex.com^
-# ||yandex.st^
 ||mc.yandex.md^
 ||yandexmetrica.com^
 ||startup.mobile.yandex.net^
@@ -95,6 +92,7 @@
 ||metrika.yandex.ru^
 ||matchid.adfox.yandex.ru^
 ||mc.yandex.ru^
+||an.yandex.ru^
 
 # Mail.ru services
 ||e.mail.ru^
