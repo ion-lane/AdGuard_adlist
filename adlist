@@ -173,6 +173,7 @@
 ||sentry.genotek.ru^
 ||sentry.spectrumdata.tech^
 ||sentry.hostvds.com^
+||sentry-cdn.com^
 
 # appsflyersdk
 ||appsflyersdk.com^
@@ -521,7 +522,6 @@
 ||raygun.com^
 ||honeybadger.com^
 ||rollbar.com^
-||sentry-cdn.com^
 
 ||hotjar.com^
 ||segment.io^
