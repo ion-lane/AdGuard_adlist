@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 11 Oct 2025
+# Date: 12 Oct 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -195,6 +195,7 @@
 
 # others
 ||uxfeedback.ru^
+||analytics.unixhost.pro^
 ||check-host.net^
 ||tracker.gg^
 ||hits.seeyoufarm.com^
