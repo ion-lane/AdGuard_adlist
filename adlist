@@ -514,8 +514,7 @@
 ||licdn.com^
 
 ||logrocket.io^
-||raygun.io^
-||raygun.com^
+||raygun.*^
 ||honeybadger.com^
 ||rollbar.com^
 
@@ -610,8 +609,6 @@
 ||static.ads-twitter.com^
 ||ads-api.twitter.com^
 ||analytics.twitter.com^
-
-||*.raygun.*^
 
 ||indexexchange.com^
 ||ads.rbm.adswizz.com^
