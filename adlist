@@ -109,12 +109,8 @@
 ||hicloud.com^
 ||heytapdl.com^
 ||allawntech.com^
-||dbankcloud.cn^
-||dbankcloud.com^
-||dbankcloud.ru^
+||dbankcloud.*^
 ||dbankedge.cn^
-||dbankcloud.eu^
-||dbankcloud.asia^
 ||adx-dre.op.dbankcloud.com.edgekey.net^
 ||coloros.com^
 
@@ -122,7 +118,6 @@
 ||adbtips.lenovo.com^
 ||epg.vgs.lenovo.com.cn^
 ||ota.lenovo.com^
-||www.lenovo.com^
 ||s.lenovo.com^
 ||openapi.lenovo.com^
 ||lenovomm.cn^
@@ -178,8 +173,7 @@
 ||sleza.media^
 ||cdn.polyfill.io^
 ||antibotcloud.com^
-||smi2.net^
-||smi2.ru^
+||smi2.*^
 ||ssp.rambler.ru^
 ||tracking.retailrocket.ru^
 ||cdn.retailrocket.ru^
@@ -205,7 +199,7 @@
 ||go.mixtraffik.ru^
 ||ip4.tracker-api.my.com^
 ||tracking.diginetica.net^
-||stats.rustore.ru^
+||rustore.ru^
 ||content.adfox.ru^
 ||ad.simpledesign.ltd^
 ||cpatracking.ru^
@@ -218,7 +212,6 @@
 ||antiterroristqueenjolly.com^
 ||absorbinginject.com^
 ||advertising.twitter.com^
-||widgets.pinterest.com^
 ||d.reddit.com^
 ||www.cdn.ad.xiaomi.com^
 ||ads-sg.tiktok.com^
@@ -244,12 +237,9 @@
 ||adsnow.ru^
 ||kraken.rambler.ru^
 ||log.rosdomofon.com^
-||cdn.jsdelivr.net^
-||cdn-edge.kwork.ru^
 ||code.createjs.com^
 ||c.tenor.com^
 ||cdn.adfinity.pro^
-||cdn.aaacdn.net^
 ||u.startup.mobile.webvisor.com^
 ||startup.mobile.webvisor.com^
 ||location.services.mozilla.com^
