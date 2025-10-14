@@ -69,11 +69,6 @@
 ||remoteprovisioning.googleapis.com^
 
 # Yandex services
-@@||api-maps.yandex.ru^$important
-@@||maps.yandex.ru^$important
-@@||maps.yandex.net^$important
-@@||mirror.yandex.ru^$important
-@@||yandex.ru^$domain=maps.yandex.ru|maps.yandex.net|api-maps.yandex.ru
 |yandex.ru^
 ||mc.yandex.md^
 ||startup.mobile.yandex.net^
