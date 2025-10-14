@@ -162,7 +162,11 @@
 ||stat.api.2gis.ru^
 ||advisor.api.2gis.ru^
 
+# sber
+||stat.online.sberbank.ru^
+
 # others
+||stat.tourvisor.ru^
 ||uxfeedback.ru^
 ||analytics.unixhost.pro^
 ||check-host.net^
