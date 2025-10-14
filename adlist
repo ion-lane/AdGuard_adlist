@@ -21,13 +21,11 @@
 @@||sitesuggestion.opera-api2.com^$important
 @@||sitecheck.opera.com^$important
 ||feednews.com^
-||op-mobile.opera.com^
 ||opera-api.com^
 ||opera-api2.com^
 ||opera.software^
 ||opera.technology^
 ||op.mykonf.com^
-||geo.opera.com^
 ||cashback-api-production.operacdn.com^
 ||redir.opera.com^
 ||pinboard.opera.com^
@@ -51,7 +49,6 @@
 ||ogads-pa.clients6.google.com^
 ||findmydevice-pa.googleapis.com^
 ||ogads-pa.googleapis.com^
-||google-analitycs.ru^
 ||clienttracing-pa.googleapis.com^
 ||semanticlocation-pa.googleapis.com^
 ||www.googleadservices.com^
@@ -79,7 +76,6 @@
 @@||yandex.ru^$domain=maps.yandex.ru|maps.yandex.net|api-maps.yandex.ru
 |yandex.ru^
 ||mc.yandex.md^
-||yandexmetrica.com^
 ||startup.mobile.yandex.net^
 ||mc.yango.com^
 ||ext-strm-ruvld01rtk-01.strm.yandex.net^
@@ -87,7 +83,6 @@
 ||ext-strm-rukhv02rtk-01.strm.yandex.net^
 ||dr.yandex.net^
 ||strm.yandex.ru^
-||strm-mar-123.strm.yandex.net^
 ||api.browser.yandex.ru^
 ||appmetrica.yandex.ru^
 ||metrika.yandex.ru^
@@ -120,7 +115,6 @@
 ||ota.lenovo.com^
 ||s.lenovo.com^
 ||openapi.lenovo.com^
-||lenovomm.cn^
 ||lenovomm.com.cn^
 
 # microsoft
@@ -130,8 +124,6 @@
 ||analyticsengine.s3.amazonaws.com^
 ||affiliationjs.s3.amazonaws.com^
 ||advertising-api-eu.amazon.com^
-||amazonaax.com^
-||amazonclix.com^
 ||nexusrules.officeapps.live.com^
 ||self.events.data.microsoft.com^
 
@@ -173,7 +165,6 @@
 ||analytics.unixhost.pro^
 ||check-host.net^
 ||tracker.gg^
-||hits.seeyoufarm.com^
 ||i0.wp.com^
 ||gosuslugi.ru^
 ||sleza.media^
@@ -184,8 +175,6 @@
 ||tracking.retailrocket.ru^
 ||cdn.retailrocket.ru^
 ||ee2cc1f8.rocketcdn.me^
-||www.drjaqsssfxpytk.com^
-||www.yqjwytbpx.com^
 ||sendsay.ru^
 ||www.statcounter.com^
 ||bpb.ukyuh.tech^
@@ -215,18 +204,13 @@
 ||web-korobka.ru^
 ||oneclient.sfx.ms^
 ||bs-dante.ru^
-||antiterroristqueenjolly.com^
 ||absorbinginject.com^
 ||advertising.twitter.com^
 ||d.reddit.com^
-||www.cdn.ad.xiaomi.com^
 ||ads-sg.tiktok.com^
-||samsungadhub.com^
 ||track.aplaut.io^
-||partners.leroymerlin.ru^
 ||sys.datadrivenpromotion.com^
 ||captive.v2ex.co^
-||m.melbet.ru^
 ||advcash.com^
 ||1xstavka.ru^
 ||member.neteller.com^
@@ -240,7 +224,6 @@
 ||euw-ice.360yield.com^
 ||tech.rtb.mts.ru^
 ||redirect.frontend.weborama.fr^
-||adsnow.ru^
 ||kraken.rambler.ru^
 ||log.rosdomofon.com^
 ||code.createjs.com^
@@ -252,10 +235,8 @@
 ||geo.tildacdn.com^
 ||trackingapi.trendemon.com^
 ||push-row.zui.com^
-||distributionrealmoth.com^
 ||effectivecreativeformat.com^
 ||linksforfree.com^
-||uniformutilitiesexpressing.com^
 ||api-a.oleads.com^
 ||vsexshop.ru^
 ||imgs.vsex-shop.ru^
@@ -292,21 +273,15 @@
 ||px.adhigh.net^
 ||ads.betweendigital.com^
 ||mincifry-cert.vk.com^
-||1xlite-890075.top^
 ||1xlite-230379.top^
-||mainotter.com^
-||streetuptowind.com^
-||speedme.ir^
 ||ta.sharemasala.com^
 ||conf.piojm.tech^
 ||sponsor.ajay.app^
 ||adsrv.hh.ru^
-||adx-tk.mtgglobals.com^
 ||de01.mtgglobals.com^
 ||dsp-rambler.ru^
 ||mrobot.mega-net.ru^
 ||static-fed.dfaklj.tech^
-||al-array.com^
 ||s.click.aliexpress.com^
 ||altitude-arena.com^
 ||advombat.ru^
@@ -317,27 +292,21 @@
 ||click.kmindex.ru^
 ||click.readme.ru^
 ||cnt.rambler.ru^
-||count.rbc.ru^
 ||counter.24log.ru^
 ||counter.rambler.ru^
 ||counting.kmindex.ru^
-||datacentric.ru^
 ||dumedia.ru^
 ||ekomi-ru.com^
 ||exebid.ru^
 ||eyenewton.ru^
-||facetz.ru^
 ||hc.uralweb.ru^
 ||hotlog.ru^
 ||ladycash.ru^
 ||liveinternet.ru^
 ||luxup.ru^
-||message-spy.ru^
 ||netlog.ru^
-||nnn.ru^
 ||officemart.ru^
 ||pp.ru^
-||rutargeter.com^
 ||sniperlog.ru^
 ||spylog.ru^
 ||stat.stars.ru^
@@ -346,18 +315,14 @@
 ||ws.audioscrobbler.com^
 ||graph.facebook.com^
 ||killtarget.biz^
-||adserv.ai^
 ||moviead55.ru^
 ||betx.su^
 ||userx.pro^
 ||audioscrobbler.com^
 ||revenuecat.com^
-||tuyaus.com^
-||ishowyoufuture.com^
 ||rax.ru^
 ||trafficbass.com^
 ||adtwister.me^
-||awsglobalaccelerator.com^
 ||adlabs.ru^
 ||adstreamer.ru^
 ||hshh.org^
@@ -385,8 +350,6 @@
 ||ads.vk.com^
 ||sdk-api.apptracer.ru^
 ||metrics.alfabank.ru^
-||mobsocks.yy.duowan.com^
-||i.4pda.ws^
 ||abtest-api.ntlg.tech^
 ||tn-cnv.mckx.ru^
 ||gnezdo.ru^
@@ -395,7 +358,6 @@
 ||adventist.org^
 ||adl.org^
 ||angelfire.lycos.com^
-||tripplefury.com^
 ||pixel.adlooxtracking.ru^
 ||wi-fi.ru^
 ||ltracking.de^
@@ -416,14 +378,9 @@
 ||fls.doubleclick.net^
 ||partnerad.l.doubleclick.net^
 ||match.adsrvr.org^
-||dart.google.com^
-||interstitial.doubleclick.net^
 ||googleadsserving.googlesyndication.com^
 ||ade.googlesyndication.com^
-||gtag.js^
 ||dc.ads.linkedin.com^
-||mobileads.google.com^
-||adservice.android.com^
 ||adwords.google.com^
 ||ads.googleusercontent.com^
 
@@ -452,26 +409,18 @@
 ||ironsrc.com^
 ||fyber.com^
 ||stickyadstv.com^
-||smaato.net^
 ||mydas.mobi^
-||telemetry.ea.com^
 ||events.ea.com^
-||phar.teradata.com^
 ||prodregistryv2.org^
 ||tracker-api.my.com^
 ||adsco.re^
-||criteo.net^
 ||adroll.com^
 
 ||scorecardresearch.com^
 ||bluekai.com^
-||turn.com^
-||mathtag.com^
-||rlcdn.com^
 ||adform.net^
 ||addthis.com^
 ||quora.com^
-||licdn.com^
 
 ||logrocket.io^
 ||raygun.*^
@@ -553,12 +502,10 @@
 ||shrtco.de^
 ||smartredirect.de^
 ||snip.li^
-||v.ht^
 ||insticator.com^
 ||spot.im^
 ||socialblade.com^
 ||newscred.com^
-||justroulette.com^
 ||hasoffers.com^
 ||ampli.fi^
 ||topadvert.ru^
@@ -571,60 +518,32 @@
 ||analytics.twitter.com^
 
 ||indexexchange.com^
-||ads.rbm.adswizz.com^
-||metrics.ctv.rakuten.co.jp^
 ||statsigapi.net^
-||tracking.kontext.tech^
 ||metrics.alfabank.ru^
-||telemetry.tracker.gg^
-||analytics.tracker.gg^
-||ads.tracker.gg^
-||adservice.tracker.gg^
-||events.tracker.gg^
-||metrics.vivaldi.com^
-||collector.vivaldi.com^
-||telemetry.amd.com^
-||metrics.amd.com^
-||analytics.avast.com^
-||tuya-analytics.com^
-||aquesa-analytics.com^
 ||airdownload2.adobe.com^
-||metricsforfriends.zachbarth.webfactional.com^
 ||gfe.nvidia.com^
 ||telemetry.gfe.nvidia.com^
 ||telemetry.nvidia.com^
 ||nvidia.tt.omtrdc.net^
 ||events.nvidia.com^
-||data.nvidia.com^
 ||metrics.nvidia.com^
 ||stats.adobe.com^
-||telemetry.adobe.com^
 ||metrics.adobe.com^
 ||analytics.adobe.com^
 ||adobe.demdex.net^
-||omtrdc.net^
 ||adobedc.demdex.net^
 
 # Блокировка только рекламных доменов Ubisoft:
 ||ads*.ubisoft.com^
 ||adscserv.ubi.com^
-||adv-co1.uappexplorer.com^
 
 # === Новые рекламные сети и AdTech ===
-||ads-api.media2025.net^
-||event.streamlytics.net^
-||cdn.adshell.net^
 ||zippyads.com^
-||metricaapi.com^
 ||deepmetrics.io^
 
 # === Новые криптомайнеры и вредоносные скрипты ===
-||miner2025.pro^
-||webcoin.site^
 ||crypto-load.com^
 ||cryptoloot.site^
-||jscoinminer-new.com^
-||coinhive.ru^
 ||jscoinminer.com^
 
 # === Подозрительные CDN и обходные домены ===
@@ -648,8 +567,5 @@
 ||ozon-deals.ru^
 ||aliexpress-official.store^
 
-||data.arris.com^
-||telemetry.openai.com^
 ||events.openai.com^
-||data-anonymization.openai.com^
 ||ai-tracking.com^
