@@ -164,6 +164,8 @@
 
 # sber
 ||stat.online.sberbank.ru^
+||ads.sber.ru^
+||metrics.prom.third-party-app.sberdevices.ru^
 
 # others
 ||stat.tourvisor.ru^
@@ -272,7 +274,6 @@
 ||betsonsport.ru^
 ||cloud2.mikrotik.com^
 ||forbidden.podryad.tv^
-||ads.sber.ru^
 ||wcm-ru.frontend.weborama.fr^
 ||sync.gonet-ads.com^
 ||adx.com.ru^
@@ -307,7 +308,6 @@
 ||adsrv.hh.ru^
 ||adx-tk.mtgglobals.com^
 ||de01.mtgglobals.com^
-||metrics.prom.third-party-app.sberdevices.ru^
 ||dsp-rambler.ru^
 ||mrobot.mega-net.ru^
 ||static-fed.dfaklj.tech^
