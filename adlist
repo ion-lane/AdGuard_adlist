@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 12 Oct 2025
+# Date: 14 Oct 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -141,38 +141,11 @@
 ||self.events.data.microsoft.com^
 
 # sentry
-||sentry.io^
+||sentry.*^
+||sentry-*^
 ||getsentry.com^
-||sentry-cdn.com^
-||sentry.xn--80ajbekothchmme5j.xn--p1ai^
-||sentry-api.sberdevices.ru^
-||sentry.ispsystem.net^
-||sentry-relay.beeline.ru^
-||sentry.srv.habr.com^
-||sentry-tech.cdek.ru^
-||sentry.vl.ru^
-||sentry.d-life.org^
-||sentry.hh.ru^
-||sentry-prod.ntlg.tech^
-||sentry.myshows.me^
-||sentry-saas.rambler-co.ru^
-||sentry.patrianna.com^
-||sentry.timeweb.cloud^
-||sentry.apteka25.ru^
-||sentry.megapteka.ru^
-||sentry.voyeur-house.tv^
-||sentry.domyland.dev^
-||sentry-public.stripchat.com^
-||receive-sentry.lmru.tech^
-||sentry.iiko.ru^
-||sentry.exp.app.local^
-||sentry-saas.rambler-co.ru^
 ||receive-sentry.lmru.tech^
 ||marketplace-sentry.wb.ru^
-||sentry.genotek.ru^
-||sentry.spectrumdata.tech^
-||sentry.hostvds.com^
-||sentry-cdn.com^
 
 # appsflyersdk
 ||appsflyersdk.com^
