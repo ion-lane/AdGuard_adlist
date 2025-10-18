@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 14 Oct 2025
+# Date: 18 Oct 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -358,7 +358,6 @@
 ||pixel.adlooxtracking.ru^
 ||track.gonet-ads.com^
 ||user-geo-data.wildberries.ru^
-||telegram.org^
 ||iionads.com^
 ||tads.tbank.ru^
 ||ms-ads-image.t-static.ru^
