@@ -30,7 +30,6 @@
 ||dns.msftncsi.com^$dnsrewrite=NOERROR;A;89.105.223.151
 ||wikimedia-dns.org^$dnsrewrite=NOERROR;A;89.105.223.151
 ||mozilla.cloudflare-dns.com^$dnsrewrite=NOERROR;A;89.105.223.151
-||dns.quad9.net^$dnsrewrite=NOERROR;A;89.105.223.151
 
 # sni proxy
 ||wunderground.com^$dnsrewrite=NOERROR;A;188.130.154.202
