@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 27 Oct 2025
+# Date: 7 Nov 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -416,7 +416,6 @@
 ||bluekai.com^
 ||adform.net^
 ||addthis.com^
-||quora.com^
 
 ||logrocket.io^
 ||raygun.*^
