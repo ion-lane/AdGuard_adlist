@@ -43,7 +43,7 @@
 
 # misc
 ||mikrotik^$dnsrewrite=NOERROR;A;10.0.0.1
-#||ntc.party^$dnsrewrite=NOERROR;A;130.255.77.28
+||ntc.party^$dnsrewrite=NOERROR;A;130.255.77.28
 ||bt.t-ru.org^$dnsrewrite=NOERROR;A;104.21.48.1
 ||bt2.t-ru.org^$dnsrewrite=NOERROR;A;104.21.48.1
 ||bt3.t-ru.org^$dnsrewrite=NOERROR;A;104.21.48.1
