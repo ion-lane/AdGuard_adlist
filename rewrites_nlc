@@ -39,6 +39,7 @@
 ||chatgpt.com^$dnsrewrite=NOERROR;A;89.105.223.151
 ||*.chatgpt.com^$dnsrewrite=NOERROR;A;89.105.223.151
 ||cdn.oaistatic.com^$dnsrewrite=NOERROR;A;89.105.223.151
+||4pda.to^$dnsrewrite=NOERROR;A;188.130.154.202
 
 # misc
 ||mikrotik^$dnsrewrite=NOERROR;A;10.0.0.1
