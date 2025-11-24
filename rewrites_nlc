@@ -1,5 +1,5 @@
 # Rewrites ntp to runtp for AdGuard Home
-# Date: 15 Sep 2025
+# Date: 25 Nov 2025
 
 # ntp servers
 ||time.apple.com^$dnsrewrite=NOERROR;CNAME;vniiftri.khv.ru
