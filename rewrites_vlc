@@ -1,5 +1,5 @@
 # Rewrites ntp to router for AdGuard Home
-# Date: 15 Sep 2025
+# Date: 27 Nov 2025
 
 # ntp servers
 ||time.apple.com^$dnsrewrite=NOERROR;A;10.0.0.1
@@ -36,6 +36,8 @@
 ||*.wunderground.com^$dnsrewrite=NOERROR;A;188.130.154.202
 ||weather.com^$dnsrewrite=NOERROR;A;188.130.154.202
 ||*.weather.com^$dnsrewrite=NOERROR;A;188.130.154.202
+||imap.gmx.com^$dnsrewrite=NOERROR;A;89.105.223.151
+||mail.gmx.com^$dnsrewrite=NOERROR;A;89.105.223.151
 
 # misc
 ||mikrotik^$dnsrewrite=NOERROR;A;10.0.0.1 
