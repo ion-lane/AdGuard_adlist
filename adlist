@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 14 Nov 2025
+# Date: 29 Nov 2025
 
 # Honor
 ||trs-drru.push.hihonorcloud.com^
@@ -96,7 +96,6 @@
 ||heytapmobile.com^
 ||heytapmobi.com^
 ||allawnos.com^
-||hicloud.com^
 ||heytapdl.com^
 ||allawntech.com^
 ||dbankcloud.*^
