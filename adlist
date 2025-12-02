@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 30 Nov 2025
+# Date: 02 Dec 2025
 
 # Honor
 ||analytics.hihonor.com^
@@ -97,8 +97,6 @@
 ||allawnos.com^
 ||heytapdl.com^
 ||allawntech.com^
-||dbankcloud.*^
-||dbankedge.cn^
 ||adx-dre.op.dbankcloud.com.edgekey.net^
 ||coloros.com^
 
