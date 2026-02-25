@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 21 Feb 2025
+# Date: 25 Feb 2025
 
 # Honor
 ||analytics.hihonor.com^
@@ -152,6 +152,7 @@
 ||metrics.prom.third-party-app.sberdevices.ru^
 
 # others
+||shop.whois.com^
 ||tracker.codeby.school^
 ||mobsocks.yy.duowan.com^
 ||valid.x86.fr^
