@@ -4,6 +4,10 @@
 # max
 ||calls.okcdn.ru^
 ||max.ru^
+||max.admin.ru^
+||sferum-dev.ru^
+||vk-admin.ru^
+||tm26.ru^
 ||ip.mail.ru^
 ||ipv4-internet.yandex.net^
 ||ipv6-internet.yandex.net^
@@ -13,6 +17,7 @@
 ||oneme.ru^
 ||voskhod.ru^
 ||adstat.yandex.ru^
+||vk-analytics.ru^
 
 # Honor
 ||analytics.hihonor.com^
