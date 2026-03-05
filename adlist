@@ -1,5 +1,18 @@
 # Additional domains for AdGuard Home
-# Date: 25 Feb 2025
+# Date: 06 Mar 2025
+
+# max
+||calls.okcdn.ru^
+||max.ru^
+||ip.mail.ru^
+||ipv4-internet.yandex.net^
+||ipv6-internet.yandex.net^
+||privacy-cs.mail.ru^
+||top-fwz1.mail.ru^
+||trk.mail.ru^
+||oneme.ru^
+||voskhod.ru^
+||adstat.yandex.ru^
 
 # Honor
 ||analytics.hihonor.com^
