@@ -168,6 +168,8 @@
 ||metrics.prom.third-party-app.sberdevices.ru^
 
 # others
+||tracker.*^
+||tracker-*^
 ||analytics.*^
 ||analytics-*^
 ||shop.whois.com^
