@@ -8,15 +8,8 @@
 ||sferum-dev.ru^
 ||vk-admin.ru^
 ||tm26.ru^
-||ip.mail.ru^
-||ipv4-internet.yandex.net^
-||ipv6-internet.yandex.net^
-||privacy-cs.mail.ru^
-||top-fwz1.mail.ru^
-||trk.mail.ru^
 ||oneme.ru^
 ||voskhod.ru^
-||adstat.yandex.ru^
 ||vk-analytics.ru^
 
 # Honor
@@ -103,6 +96,7 @@
 ||matchid.adfox.yandex.ru^
 ||mc.yandex.ru^
 ||an.yandex.ru^
+||adstat.yandex.ru^
 
 # Mail.ru services
 ||e.mail.ru^
@@ -110,6 +104,9 @@
 ||bar.love.mail.ru^
 ||top-fwz1.mail.ru^
 ||adv.mail.ru^
+||ip.mail.ru^
+||privacy-cs.mail.ru^
+||trk.mail.ru^
 
 # realme phone^
 ||heytapmobile.com^
