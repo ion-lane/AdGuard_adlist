@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 21 Mar 2025
+# Date: 27 Mar 2025
 
 # DoH/DoT
 ||dns.msftncsi.com^
@@ -179,6 +179,7 @@
 
 # others
 @@||tophqcam.com^$important
+||telega.info
 ||analytics2.star-traffic.com^
 ||hotels-growth-feed.t-bank-app.ru^
 ||api-stories.t-bank-app.ru^
