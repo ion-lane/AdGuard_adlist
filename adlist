@@ -9,6 +9,8 @@
 #||stun4.l.google.com^
 #||stun3.l.google.com^
 #||stun.cloudflare.com^
+#||a5659.q.akamai.net^
+#||b-cdn.net^
 
 # DoH/DoT
 ||dns.msftncsi.com^
