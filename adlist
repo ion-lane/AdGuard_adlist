@@ -15,6 +15,7 @@
 #||a5817.gd.akamai.net^
 #||b-cdn.net^
 #||k.sni.global.fastly.net^
+#||www.googleapis.cn^
 
 # DoH/DoT
 ||dns.msftncsi.com^
