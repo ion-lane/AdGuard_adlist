@@ -1,5 +1,13 @@
 # Additional domains for AdGuard Home
-# Date: 30 Mar 2025
+# Date: 22 Apr 2026
+
+# STUN
+||stun.nextcloud.com^
+||stun.l.google.com^
+||stun.voip.blackberry.com^
+||stun.l.google.com^
+||stun4.l.google.com^
+||stun3.l.google.com^
 
 # DoH/DoT
 ||dns.msftncsi.com^
