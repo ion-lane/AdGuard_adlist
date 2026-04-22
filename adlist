@@ -13,6 +13,7 @@
 #||a1224.dscr.akamai.net^
 #||a5817.gd.akamai.net^
 #||b-cdn.net^
+#||k.sni.global.fastly.net^
 
 # DoH/DoT
 ||dns.msftncsi.com^
