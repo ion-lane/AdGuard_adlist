@@ -23,6 +23,7 @@
 ||*.dscg2.akamai.net^
 ||b-cdn.net^
 ||*.sni.global.fastly.net^
+||quic.map.fastly.net^
 ||www.googleapis.cn^
 
 # DoH/DoT
