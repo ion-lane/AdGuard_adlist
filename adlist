@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 22 Apr 2026
+# Date: 23 Apr 2026
 
 # STUN
 ||stun.nextcloud.com^
@@ -19,9 +19,10 @@
 ||*.w7.akamai.net^
 ||*.b.akamai.net^
 ||*.g.akamai.net^
+||*.dscd.akamai.net^
 ||*.dscg2.akamai.net^
 ||b-cdn.net^
-||k.sni.global.fastly.net^
+||*.sni.global.fastly.net^
 ||www.googleapis.cn^
 
 # DoH/DoT
