@@ -2,29 +2,29 @@
 # Date: 23 Apr 2026
 
 # STUN
-||stun.nextcloud.com^
-||stun.l.google.com^
-||stun.voip.blackberry.com^
-||stun.l.google.com^
-||stun4.l.google.com^
-||stun3.l.google.com^
-||stun.cloudflare.com^
-||*.q.akamai.net^
-||*.g2.akamai.net^
-||*.dscr.akamai.net^
-||*.gd.akamai.net^
-||*.r.akamai.net^
-||*.dscw7.akamai.net^
-||*.na.akamai.net^
-||*.w7.akamai.net^
-||*.b.akamai.net^
-||*.g.akamai.net^
-||*.dscd.akamai.net^
-||*.dscg2.akamai.net^
-||b-cdn.net^
-||*.sni.global.fastly.net^
-||quic.map.fastly.net^
-||www.googleapis.cn^
+#||stun.nextcloud.com^
+#||stun.l.google.com^
+#||stun.voip.blackberry.com^
+#||stun.l.google.com^
+#||stun4.l.google.com^
+#||stun3.l.google.com^
+#||stun.cloudflare.com^
+#||*.q.akamai.net^
+#||*.g2.akamai.net^
+#||*.dscr.akamai.net^
+#||*.gd.akamai.net^
+#||*.r.akamai.net^
+#||*.dscw7.akamai.net^
+#||*.na.akamai.net^
+#||*.w7.akamai.net^
+#||*.b.akamai.net^
+#||*.g.akamai.net^
+#||*.dscd.akamai.net^
+#||*.dscg2.akamai.net^
+#||b-cdn.net^
+#||*.sni.global.fastly.net^
+#||quic.map.fastly.net^
+#||www.googleapis.cn^
 
 # DoH/DoT
 ||dns.msftncsi.com^
