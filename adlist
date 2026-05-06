@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 23 Apr 2026
+# Date: 07 May 2026
 
 # STUN
 #||stun.nextcloud.com^
@@ -212,6 +212,7 @@
 
 # others
 @@||tophqcam.com^$important
+||this-is-face.dev^
 ||kycmania.ru^
 ||spring.io^
 ||telega.info^
