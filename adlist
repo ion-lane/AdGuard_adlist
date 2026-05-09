@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 07 May 2026
+# Date: 09 May 2026
 
 # STUN
 #||stun.nextcloud.com^
@@ -27,6 +27,7 @@
 #||www.googleapis.cn^
 
 # DoH/DoT
+||cloudflare-dns.com^
 ||dns.msftncsi.com^
 ||dns.msftncsi.com.localdomain^
 ||dns.yandex.ru^
