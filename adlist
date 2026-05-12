@@ -63,6 +63,10 @@
 ||log.hihonor.com^
 ||data.hihonorcloud.com^
 ||tracking.hihonor.com^
+||remoteconfig-dra.platform.hihonorcloud.com^
+||remoteconfig-drcn.platform.hihonorcloud.com^
+||remoteconfig-dre.platform.hihonorcloud.com^
+||remoteconfig-uat-drcn.platform.hihonorcloud.com^
 
 # TP-link IP camera
 ||tplinkcloud.com.cn^
