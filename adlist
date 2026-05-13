@@ -127,6 +127,7 @@
 ||firebase-settings.crashlytics.com^
 ||locationhistory-pa.googleapis.com^
 ||remoteprovisioning.googleapis.com^
+||metric.gstatic.com^
 
 # Yandex services
 |yandex.ru^
@@ -217,6 +218,7 @@
 
 # others
 @@||tophqcam.com^$important
+||trace-proxy.mam.dev^
 ||cdn.24metrics.com^
 ||rutube.ru^
 ||adtidy.org^
