@@ -1,30 +1,13 @@
 # Additional domains for AdGuard Home
-# Date: 13 May 2026
+# Date: 18 May 2026
 
-# STUN
-#||stun.nextcloud.com^
-#||stun.l.google.com^
-#||stun.voip.blackberry.com^
-#||stun.l.google.com^
-#||stun4.l.google.com^
-#||stun3.l.google.com^
-#||stun.cloudflare.com^
-#||*.q.akamai.net^
-#||*.g2.akamai.net^
-#||*.dscr.akamai.net^
-#||*.gd.akamai.net^
-#||*.r.akamai.net^
-#||*.dscw7.akamai.net^
-#||*.na.akamai.net^
-#||*.w7.akamai.net^
-#||*.b.akamai.net^
-#||*.g.akamai.net^
-#||*.dscd.akamai.net^
-#||*.dscg2.akamai.net^
-#||b-cdn.net^
-#||*.sni.global.fastly.net^
-#||quic.map.fastly.net^
-#||www.googleapis.cn^
+# Mobile ID
+||mobileid.megafon.ru^
+||idgw.mobileid.mts.ru^
+||hhe.mts.ru^
+||he-mc.tele2.ru^
+||he-mc.t2.ru^
+#||balance.beeline.ru^
 
 # DoH/DoT
 ||cloudflare-dns.com^
