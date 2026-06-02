@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 22 May 2026
+# Date: 02 Jun 2026
 
 # Mobile ID
 ||mobileid.megafon.ru^
@@ -34,6 +34,27 @@
 ||oneme.ru^
 ||voskhod.ru^
 ||vk-analytics.ru^
+
+# Xiaomi/POCO
+||ad.rus.xiaomi.com^
+||ad.xiaomi.com^
+||tracker-preview.ai.xiaomi.com^
+||tracking.india.miui.com^
+||tracking.intl.miui.com^
+||tracking.miui.com^
+||cdn-exp-sg-recommend.pt.xiaomi.com^
+||ru.register.xmpush.global.xiaomi.com^
+||ad1.xiaomi.com^
+||ad.cdn.pandora.xiaomi.com^
+||ad.mi.com^
+||ad.quickapp.hybrid.xiaomi.com^
+||adv.sec.intl.miui.com^
+||adv.sec.miui.com^
+||analytics.ff.avast.sec.miui.com^
+||resolver.gslb.mi-idc.com^
+||resolver.msg.global.xiaomi.net^
+||resolver.msg.xiaomi.net^
+||resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com^
 
 # Honor
 ||analytics.hihonor.com^
