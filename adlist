@@ -55,6 +55,10 @@
 ||resolver.msg.global.xiaomi.net^
 ||resolver.msg.xiaomi.net^
 ||resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com^
+||global.control.preload.xiaomi.com^
+||jupiter.rus.sys.miui.com^
+||widget.cdn.intl.miui.com^
+||theme.cdn.intl.miui.com^
 
 # Honor
 ||analytics.hihonor.com^
