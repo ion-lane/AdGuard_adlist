@@ -39,8 +39,7 @@
 ||ad.rus.xiaomi.com^
 ||ad.xiaomi.com^
 ||tracker-preview.ai.xiaomi.com^
-||tracking.india.miui.com^
-||tracking.intl.miui.com^
+||tracking.*.miui.com^
 ||tracking.miui.com^
 ||cdn-exp-sg-recommend.pt.xiaomi.com^
 ||ru.register.xmpush.global.xiaomi.com^
