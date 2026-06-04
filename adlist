@@ -114,7 +114,7 @@
 ||get.geo.opera.com^
 ||get.opera.com^
 
-# mzilla/firefox
+# mozilla/firefox
 ||firefox.settings.services.mozilla.com^
 ||firefox-settings-attachments.cdn.mozilla.net^
 ||detectportal.firefox.com^
