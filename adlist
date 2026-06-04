@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 02 Jun 2026
+# Date: 04 Jun 2026
 
 # Mobile ID
 ||mobileid.megafon.ru^
@@ -113,6 +113,11 @@
 ||auth.opera.com^
 ||get.geo.opera.com^
 ||get.opera.com^
+
+# mzilla/firefox
+||firefox.settings.services.mozilla.com^
+||firefox-settings-attachments.cdn.mozilla.net^
+||detectportal.firefox.com^
 
 # Google services
 ||ogads-pa.clients6.google.com^
