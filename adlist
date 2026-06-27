@@ -120,6 +120,8 @@
 ||detectportal.firefox.com^
 
 # Google services
+||geomobileservices-pa.googleapis.com^
+||geotimezones.googleapis.com^
 ||ogads-pa.clients6.google.com^
 ||findmydevice-pa.googleapis.com^
 ||ogads-pa.googleapis.com^
