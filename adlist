@@ -120,6 +120,7 @@
 ||detectportal.firefox.com^
 
 # Google services
+||locationhistoryplacedetails-pa.googleapis.com^
 ||geomobileservices-pa.googleapis.com^
 ||geotimezones.googleapis.com^
 ||ogads-pa.clients6.google.com^
