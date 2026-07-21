@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 04 Jun 2026
+# Date: 21 Jul 2026
 
 # Mobile ID
 ||mobileid.megafon.ru^
@@ -34,6 +34,7 @@
 ||oneme.ru^
 ||voskhod.ru^
 ||vk-analytics.ru^
+||verbox.ru^
 
 # Xiaomi/POCO
 ||ad.*.xiaomi.com^
