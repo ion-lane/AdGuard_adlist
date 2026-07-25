@@ -37,6 +37,11 @@
 ||verbox.ru^
 
 # Xiaomi/POCO
+||pi.ias.xiaomi.com^
+||market.xiaomi.com^
+||abroad.api.comm.intl.miui.com^
+||gtglobal.intl.miui.com^
+||mqs-log.miui.com^
 ||ad.*.xiaomi.com^
 ||ad.xiaomi.com^
 ||tracker-preview.ai.xiaomi.com^
@@ -56,6 +61,7 @@
 ||resolver.msg.xiaomi.net^
 ||resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com^
 ||global.control.preload.xiaomi.com^
+||jupiter.intl.sys.miui.com^
 ||jupiter.rus.sys.miui.com^
 ||widget.cdn.intl.miui.com^
 ||theme.cdn.intl.miui.com^
