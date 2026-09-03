@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 26 Jul 2026
+# Date: 03 Sep 2026
 
 # Mobile ID
 ||mobileid.megafon.ru^
@@ -244,6 +244,7 @@
 
 # others
 @@||tophqcam.com^$important
+||aclpro.ru^
 ||crrpay.ru^
 ||telegram.dog^
 ||metriks.serv.host^
