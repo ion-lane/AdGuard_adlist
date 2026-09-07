@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 03 Sep 2026
+# Date: 07 Sep 2026
 
 # Mobile ID
 ||mobileid.megafon.ru^
@@ -95,6 +95,8 @@
 @@||siteicon.opera-api2.com^$important
 @@||sitesuggestion.opera-api2.com^$important
 @@||sitecheck.opera.com^$important
+||api.config.opr.gg^
+||mods.store.gx.me^
 ||feednews.com^
 ||opera-api.com^
 ||opera-api2.com^
