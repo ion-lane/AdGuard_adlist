@@ -1,5 +1,5 @@
 # Additional domains for AdGuard Home
-# Date: 07 Sep 2026
+# Date: 11 Sep 2026
 
 # Mobile ID
 ||mobileid.megafon.ru^
@@ -157,6 +157,8 @@
 
 # Yandex services
 |yandex.ru^
+||uniproxy.alice.yandex.net^
+||mobpayment.yandex.net^
 ||mc.yandex.md^
 ||startup.mobile.yandex.net^
 ||mc.yango.com^
