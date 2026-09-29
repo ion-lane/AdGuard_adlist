@@ -156,11 +156,11 @@
 ||metric.gstatic.com^
 
 # Yandex services
-|yandex.ru^
+#|yandex.ru^
 ||uniproxy.alice.yandex.net^
-||mobpayment.yandex.net^
+#||mobpayment.yandex.net^
 ||mc.yandex.md^
-||startup.mobile.yandex.net^
+#||startup.mobile.yandex.net^
 ||mc.yango.com^
 ||ext-strm-ruvld01rtk-01.strm.yandex.net^
 ||ext-strm-ruvld02rtk-01.strm.yandex.net^
@@ -175,7 +175,7 @@
 ||mc.yandex.ru^
 ||an.yandex.ru^
 ||adstat.yandex.ru^
-||mobileproxy.passport.yandex.net^
+#||mobileproxy.passport.yandex.net^
 
 # Mail.ru services
 ||e.mail.ru^
