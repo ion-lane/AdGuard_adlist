@@ -156,7 +156,7 @@
 ||metric.gstatic.com^
 
 # Yandex services
-#|yandex.ru^
+|yandex.ru^
 ||uniproxy.alice.yandex.net^
 #||mobpayment.yandex.net^
 ||mc.yandex.md^
